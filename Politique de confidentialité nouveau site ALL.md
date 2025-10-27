@@ -1205,7 +1205,7 @@ Les données peuvent être hébergées en Suisse par **Infomaniak Network SA**, 
 
 Pour faciliter l’accès à des consultations de gynécologie ou de psychologie avec les professionnels du Centre Polyvalent de Santé Universitaire, l’AEU met à votre disposition un système de **prise de rendez-vous en ligne** via la plateforme **Maiia Agenda**, éditée par la société **CEGEDIM SANTÉ**. Voici les détails de ce traitement :
 
-#### **Pourquoi collectons-nous ces informations ?**
+##### **Pourquoi collectons-nous ces informations ?**
 
 Ce traitement permet :
 
@@ -1216,7 +1216,7 @@ Ce traitement permet :
 * De transmettre au praticien les informations nécessaires à la consultation.  
 * D'effectuer un suivi des consultations dans le dossier médical du patient.
 
-#### **Les informations collectées**
+##### **Les informations collectées**
 
 Lors de l’utilisation de Maiia Agenda, les données suivantes peuvent être collectées dans le cadre de la gestion de votre compte et de vos rendez-vous :
 
@@ -1228,16 +1228,16 @@ Lors de l’utilisation de Maiia Agenda, les données suivantes peuvent être co
 
 * **Informations relatives au rendez-vous** : motif de consultation, date et heure du rendez-vous, lieu de consultation, praticien sélectionné.
 
-#### **Qui gère ce traitement ?**
+##### **Qui gère ce traitement ?**
 
 Le traitement est réalisé via **Maiia Agenda**, plateforme sécurisée éditée par **CEGEDIM SANTÉ**, prestataire de l’AEU.
 
-#### **Combien de temps ces données sont-elles conservées ?**
+##### **Combien de temps ces données sont-elles conservées ?**
 
 Les données relatives à la **prise de rendez-vous** sont conservées uniquement le temps nécessaire à l’exécution de celui-ci, et **ne peuvent être conservées au-delà de la durée d’existence de votre compte Maiia**.  
  Cependant, certaines informations, comme le **motif de consultation**, peuvent être intégrées au **dossier médical** du patient. Ces données sont conservées **pendant 20 ans à compter de la dernière consultation**, conformément à la réglementation applicable en matière de données de santé.
 
-#### **Où sont hébergées les données ?**
+##### **Où sont hébergées les données ?**
 
 Les données traitées via Maiia Agenda sont **hébergées au sein de l’Union européenne**, dans des centres agréés pour l’hébergement de données de santé (HDS), garantissant un haut niveau de sécurité et de confidentialité.
 
@@ -1247,6 +1247,31 @@ L’AEU peut être amenée à vous transmettre des email de promotion de ses Ser
 
 - si vous êtes clients de ses services, ce qui est notamment le cas si vous disposez d’un Compte Utilisateur Moneweb  
 - ou si vous disposez d’un Compte Utilisateur
+
+#### 1.10.1. La lettre d'information relatives aux Services à destinations des clients
+
+##### Pourquoi mettre en oeuvre ce traitement ?
+Nous mettons en oeuvre ce traitement pour vous avertir des informations relatives à l'utilisation des Services et aussi des actualités qui y sont relatives. Vous pouvez notamment recevoir un email 
+
+##### Quelles informations sont traitées dans ce cadre ?
+
+##### Qui gère ce traitement ?
+
+##### Combien de temps les informations sont elles conservées ?
+
+##### Où sont hébergées ces données et à qui sont elles transmises ?
+
+#### 1.10.2. La lettre d'information relative à l'utilisation du Site par les Utilisteurs
+
+##### Pourquoi mettre en oeuvre ce traitement ?
+
+##### Quelles informations sont traitées dans ce cadre ?
+
+##### Qui gère ce traitement ?
+
+##### Combien de temps les informations sont elles conservées ?
+
+##### Où sont hébergées ces données et à qui sont elles transmises ?
 
 ---
 
