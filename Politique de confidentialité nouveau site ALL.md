@@ -1060,6 +1060,7 @@ Sont potentiellement traitées :
 * La durée de la session,
 
 * Le chemin de navigation (pages consultées, clics, interactions).
+Le recours à des cookies dans ce cadre est détaillée dans la section Cookies de la présente politique de confidentialité.
 
 ##### Qui gère ce traitement ?
 
