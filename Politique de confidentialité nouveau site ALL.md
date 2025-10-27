@@ -1286,19 +1286,139 @@ Les informations traitées dans ce cadre sont stockées chez Infomaniak, héberg
 
 ## Partie 2 \- Description des conditions de réalisation des traitements
 
-### 2.1. Mesures de sécurisation des données
+### 2.1. Vos droits sur vos données personnelles et les traitements pratiqués dessus
 
-* Mesures techniques et organisationnelles  
-* Hébergement des données  
-* Garanties pour les transferts hors EEE
+Conformément au Règlement Général sur la Protection des Données (RGPD) et à la loi Informatique et Libertés, vous disposez de plusieurs droits concernant vos données personnelles. Ces droits vous permettent de garder le contrôle sur les informations que nous traitons vous concernant.
 
-### 2.2. Vos droits sur les traitements
+#### Vos droits
 
-* Droit d’accès, rectification, suppression, limitation, portabilité, opposition  
-* Modalités d’exercice des droits  
-* Droit de réclamation auprès de la CNIL
+Lorsque vous nous transmettez ou que nous collectons des données personnelles vous concernant, vous disposez des droits suivants :
 
-### 2.3. Politique relative aux cookies
+##### 1. Droit d'accès
+
+Vous avez le droit de savoir si nous traitons des données vous concernant et, le cas échéant, d'obtenir une copie de ces données ainsi que les informations suivantes :
+
+* Les finalités du traitement,
+* Les catégories de données personnelles concernées,
+* Les destinataires ou catégories de destinataires auxquels vos données sont communiquées,
+* La durée de conservation des données ou, à défaut, les critères utilisés pour déterminer cette durée,
+* L'origine des données lorsqu'elles ne sont pas collectées directement auprès de vous,
+* L'existence d'une prise de décision automatisée, y compris le profilage, le cas échéant.
+
+##### 2. Droit de rectification
+
+Vous pouvez demander la correction de vos données personnelles lorsque celles-ci sont inexactes ou incomplètes. Vous pouvez notamment nous demander :
+
+* De mettre à jour une adresse e-mail erronée,
+* De corriger des informations d'identité ou de contact incorrectes,
+* De compléter des données manquantes,
+* De modifier vos préférences de notification.
+
+##### 3. Droit à l'effacement ("droit à l'oubli")
+
+Vous pouvez demander la suppression de vos données personnelles dans les cas suivants :
+
+* Les données ne sont plus nécessaires au regard des finalités pour lesquelles elles ont été collectées,
+* Vous retirez votre consentement sur lequel le traitement est fondé et il n'existe pas d'autre fondement juridique,
+* Vous vous opposez légitimement au traitement et il n'existe pas de motif légitime impérieux,
+* Les données ont fait l'objet d'un traitement illicite,
+* Les données doivent être effacées pour respecter une obligation légale.
+
+**Cas particuliers** : Certaines données peuvent être conservées malgré votre demande pour respecter des obligations légales ou administratives (conservation comptable, fiscale, documentaire, etc.), pendant les durées légales en vigueur.
+
+##### 4. Droit à la limitation du traitement
+
+Vous pouvez demander que le traitement de vos données personnelles soit limité dans les situations suivantes :
+
+* Vous contestez l'exactitude des données, le temps que nous vérifions leur exactitude,
+* Le traitement est illicite et vous préférez la limitation à l'effacement,
+* Nous n'avons plus besoin de vos données mais vous en avez besoin pour la constatation, l'exercice ou la défense de droits en justice,
+* Vous vous êtes opposé au traitement, pendant la vérification de la légitimité des motifs du responsable.
+
+En cas d'application de la limitation, vos données ne peuvent être utilisées qu'avec votre consentement ou pour la constatation, l'exercice ou la défense de droits en justice.
+
+##### 5. Droit à la portabilité des données
+
+Vous avez le droit de recevoir les données personnelles vous concernant que vous nous avez fournies, dans un format structuré, couramment utilisé et lisible par machine. Vous pouvez également demander que nous transmettions ces données directement à un autre responsable de traitement, lorsque cela est techniquement possible.
+
+Ce droit s'applique aux données que :
+
+* Vous avez fournies directement (prénom, nom, e-mail, etc.),
+* Qui sont traitées sur la base de votre consentement ou d'un contrat,
+* Et qui sont traitées par des moyens automatisés.
+
+**Exemple** : Vous pouvez récupérer vos historiques de commandes, vos transactions Moneweb, ou exporter les informations de votre compte utilisateur.
+
+##### 6. Droit d'opposition
+
+Vous pouvez vous opposer à tout moment, pour des raisons tenant à votre situation particulière, au traitement de vos données personnelles :
+
+* Lorsque le traitement est fondé sur l'exécution d'une mission d'intérêt public ou l'exercice de l'autorité publique,
+* Lorsque le traitement est fondé sur notre intérêt légitime,
+* Pour les opérations de prospection, notamment publicitaire,
+* Pour les traitements à des fins statistiques.
+
+**Important** : Nous ne pouvons pas garantir que votre opposition sera suivie d'effets si nous démontrons des motifs légitimes et impérieux pour traiter vos données qui prévalent sur vos intérêts, droits et libertés, ou pour la constatation, l'exercice ou la défense de droits en justice.
+
+##### 7. Droit au retrait du consentement
+
+Lorsque le traitement est fondé sur votre consentement, vous pouvez le retirer à tout moment, sans que cela ne remette en cause la licéité du traitement effectué avant le retrait.
+
+Vous pouvez notamment retirer votre consentement pour :
+
+* La réception de lettres d'information par e-mail,
+* L'acceptation de cookies non strictement nécessaires,
+* L'utilisation de certaines données pour des finalités spécifiques nécessitant votre consentement.
+
+#### Comment exercer vos droits
+
+Pour exercer vos droits, vous pouvez nous adresser votre demande par l'un des moyens suivants :
+
+**Par e-mail** : dpo@all-lacatho.fr
+
+**Par courrier postal** :
+Association d'Entraide Universitaire
+47 boulevard Vauban
+59000 Lille, France
+
+À l'attention du Délégué à la Protection des Données (DPO)
+
+**Informations à fournir dans votre demande**
+
+Afin de traiter votre demande dans les meilleurs délais, merci de nous communiquer :
+
+* Vos coordonnées (nom, prénom, adresse e-mail),
+* L'objet de votre demande (droit que vous souhaitez exercer),
+* Les éléments nécessaires pour vous identifier sur nos Services (ex. : numéro de compte, identifiant),
+* Si vous le souhaitez, les traitements concernés par votre demande.
+
+**Délais de réponse**
+
+Conformément au RGPD, nous nous engageons à répondre à votre demande dans un délai d'un mois à compter de sa réception. Ce délai peut être prolongé de deux mois supplémentaires en cas de demandes complexes ou nombreuses. Dans ce cas, nous vous en informons dans le mois suivant la réception de votre demande.
+
+**Justification d'identité**
+
+Nous sommes tenus de vérifier votre identité avant d'accéder à votre demande. Une copie d'une pièce d'identité peut vous être demandée pour des raisons de sécurité.
+
+**Recours possibles en cas de refus**
+
+Si votre demande est refusée ou partiellement refusée, nous vous en indiquerons les raisons. Vous pouvez introduire une réclamation auprès de la CNIL ou contester cette décision devant l'autorité judiciaire compétente.
+
+#### Droit de réclamation auprès de la CNIL
+
+Si vous estimez que le traitement de vos données personnelles constitue une violation du RGPD ou de la loi Informatique et Libertés, vous avez le droit d'introduire une réclamation auprès de la Commission Nationale de l'Informatique et des Libertés (CNIL).
+
+**Coordonnées de la CNIL** :
+3 Place de Fontenoy - TSA 80715
+75334 Paris Cedex 07
+Téléphone : 01 53 73 22 22
+Site web : https://www.cnil.fr
+
+Vous pouvez également introduire une réclamation en ligne via le formulaire disponible sur le site internet de la CNIL : https://www.cnil.fr/fr/plaintes
+
+Avant de saisir la CNIL, nous vous encourageons vivement à nous contacter en premier lieu afin que nous puissions résoudre votre difficulté ensemble. Nous vous rappelons notre adresse de contact : dpo@all-lacatho.fr.
+
+### 2.2. Politique relative aux cookies
 
 Le site **all-lacatho.fr** utilise des cookies pour vous aider à naviguer efficacement, à exécuter certaines fonctionnalités, à assurer la sécurité des sessions, et à améliorer votre expérience utilisateur. Ces cookies sont classés par catégories selon leur finalité. Seuls les cookies strictement nécessaires au fonctionnement du site sont activés par défaut, conformément à la réglementation en vigueur (RGPD et directive ePrivacy).
 
@@ -1348,10 +1468,5 @@ Lors de votre première visite, un bandeau de consentement vous permet de gérer
 
 Pour plus d'informations sur l'utilisation des cookies, vous pouvez consulter les détails sous chaque catégorie dans le gestionnaire de préférences disponible en bas de page.
 
----
-
-# Mentions légales
-
-* Conditions générales d’utilisation  
-* Politique de confidentialité  
-* Contact
+# Modalités
+La présente version de la politique de confidentialité des Services entre en vigueur le X novembre 2025.
