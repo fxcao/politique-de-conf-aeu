@@ -1252,28 +1252,36 @@ L’AEU peut être amenée à vous transmettre des email de promotion de ses Ser
 #### 1.10.1. La lettre d'information relatives aux Services à destinations des clients
 
 ##### Pourquoi mettre en oeuvre ce traitement ?
-Nous mettons en oeuvre ce traitement pour vous avertir des informations relatives à l'utilisation des Services et aussi des actualités qui y sont relatives. Vous pouvez notamment recevoir un email 
+Nous mettons en oeuvre ce traitement pour vous avertir des informations relatives à l'utilisation des Services et aussi des actualités qui y sont relatives. Vous pouvez notamment recevoir un email afin de vous inviter à créer votre Compte Utilisateur.
 
 ##### Quelles informations sont traitées dans ce cadre ?
+Dans ce cadre nous traitons votre adresse email.
 
 ##### Qui gère ce traitement ?
+Ce traitement est mis en oeuvre par le service communnication de l'AEU.
 
 ##### Combien de temps les informations sont elles conservées ?
+Ces informations sont conservées aussi longtemps que vos disposez d'un Compte Utilisateur Moneweb.
 
 ##### Où sont hébergées ces données et à qui sont elles transmises ?
+Les données sont hébergées chez par JES, éditeurs de Moneweb, et par Mailjet, SAS, fournisseur d'une solution d'emailing mobilisée par le service communication pour vous envoyer ces informations. Infomaniak, à titre d'hébergeur de la base de données du Site, est également sujet à recueillir ces données en tant que sous-traitant de l'AEU, pour les besoins du fonctionnement des Services.
 
 #### 1.10.2. La lettre d'information relative à l'utilisation du Site par les Utilisteurs
 
 ##### Pourquoi mettre en oeuvre ce traitement ?
+Lorsque vous utilisez les Site, certaines interactions peuvent déclencher l'envoi automatique d'emails afin de confirmer ou vous informer sur une demande ou un usage d'une de ses fonctionnalités.
 
 ##### Quelles informations sont traitées dans ce cadre ?
+Dans ce cadre nous traitons votre adresse email, votre nom et votre prénom.
 
 ##### Qui gère ce traitement ?
+Ce traitement est mis en oeuvre par l'AEU.
 
 ##### Combien de temps les informations sont elles conservées ?
+Ces informations sont conservées en base active aussi longtemps que votre Compte Utilisateur existe. Elles sont alors supprimées après une période de 12 mois, sauf impératif légal de conservation (notamment si la tenue comptable l'exige).
 
 ##### Où sont hébergées ces données et à qui sont elles transmises ?
-
+Les informations traitées dans ce cadre sont stockées chez Infomaniak, hébergeur des données du Site, et l'envoi s'effectue par l'AEU au moyen des services de Mailjet, SAS, fournisseur d'une solution d'emailing. Mailjet recours à des serveurs situés aux États Unis d'Amérique, pays avec lequel il existe une décision d'adéquation concernant le niveau de protection des données personnelles.
 ---
 
 ## Partie 2 \- Description des conditions de réalisation des traitements
