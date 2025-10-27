@@ -1295,36 +1295,41 @@ Le site **all-lacatho.fr** utilise des cookies pour vous aider à naviguer effic
 
 #### **🔒 Cookies nécessaires (toujours actifs)**
 
-Ces cookies sont essentiels pour garantir le bon fonctionnement du site, la sécurité des connexions et la gestion des paiements. Ils ne stockent pas de données directement identifiables.
+Ces cookies sont essentiels pour garantir le bon fonctionnement du site et la sécurité des connexions. Ils sont déposés par notre site et ne stockent pas de données directement identifiables.
 
 | Cookie | Durée de vie | Finalité |
 | ----- | ----- | ----- |
-| `__Host-next-auth.csrf-token` | Session | Sécurise les requêtes d’authentification (protection contre les attaques CSRF). |
-| `__Secure-next-auth.callback-url` | Session | Stocke l’URL de redirection post-authentification. |
-| `route` | Session | Gère la répartition de charge entre les serveurs. |
-| `SRVGROUP` | Session | Assure la répartition du trafic entre les serveurs (load balancing). |
+| `__Host-next-auth.csrf-token` | Session (<1 jour) | Sécurise les requêtes d'authentification et protège contre les attaques CSRF. |
+| `__Secure-next-auth.callback-url` | Session (<1 jour) | Mémorise l'URL de redirection après authentification. |
+| `route` | Session (<1 jour) | Gère la répartition de charge entre les serveurs. |
+| `SRVGROUP` | Session (<1 jour) | Assure la répartition du trafic entre les serveurs (load balancing). |
 
-#### **💳 Cookies liés au paiement (nécessaires – déposés par Stripe)**
+#### **💳 Cookies liés au paiement (déposés par Stripe)**
 
-Ces cookies sont utilisés par le service tiers Stripe pour la prévention de la fraude, la gestion des sessions de paiement et l’identification des appareils.
+Ces cookies sont déposés par le service de paiement Stripe pour la gestion des transactions et la prévention de la fraude.
 
 | Cookie | Domaine | Durée de vie | Finalité |
 | ----- | ----- | ----- | ----- |
-| `__stripe_mid` | .all-lacatho.fr | 1 an | Identifie l’utilisateur et l’appareil à des fins de prévention de fraude. |
-| `__stripe_sid` | .all-lacatho.fr | 30 minutes à 1 heure | Identifie temporairement l’utilisateur lors du paiement. |
-| `__stripe_orig_props` | .stripe.com | 3 mois | Stocke l’URL d’origine et de destination pour Stripe. |
-| `cid` | .stripe.com | Environ 1 mois | Identifiant client pour la prévention de fraude. |
-| `machine_identifier` | .stripe.com | Environ 4 mois | Identifie l’appareil utilisé pour accéder au site. |
-| `private_machine_identifier` | .stripe.com | Environ 4 mois | Identifie de manière sécurisée un appareil Stripe. |
+| `_stripe_mid` | .all-lacatho.fr | 365 jours | Gestion des paiements et identification pour la prévention de fraude. |
+| `_stripe_sid` | .all-lacatho.fr | Session (<1 jour) | Gestion des paiements lors des transactions en cours. |
+| `m` | .stripe.com | 730 jours | Gestion des paiements (objectif indéterminé). |
 
-#### **🧾 Autres cookies (fonctionnels, analytiques ou non classés)**
+#### **📊 Cookies analytiques (soumis à consentement)**
 
-Certains cookies sont utilisés pour suivre les sessions utilisateurs ou sont en cours de catégorisation. Leur utilisation est soumise à votre consentement préalable.
+Ces cookies sont utilisés pour mesurer l'audience et comprendre l'utilisation du site.
 
 | Cookie | Durée de vie | Finalité |
 | ----- | ----- | ----- |
-| `uid` | Jusqu’au 20/10/2025 | Identifiant utilisateur anonyme utilisé pour la gestion de session. |
-| `route` (duplication avec un autre) | Session | Répartition du trafic sur les serveurs d’application. |
+| `_ga` | 400 jours | Analyse statistique des visites et mesure d'audience. |
+| `_ga_6YGKT00P58` | 400 jours | Analyse statistique des visites (Google Analytics). |
+
+#### **⚙️ Cookies de préférences utilisateur**
+
+Ces cookies permettent de mémoriser vos choix et préférences.
+
+| Cookie | Durée de vie | Finalité |
+| ----- | ----- | ----- |
+| `cookieyes-consent` | 365 jours | Gestion des consentements aux cookies et conservation de vos préférences. |
 
 ---
 
