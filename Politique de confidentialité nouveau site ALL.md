@@ -1470,3 +1470,5 @@ Pour plus d'informations sur l'utilisation des cookies, vous pouvez consulter le
 
 # Modalités
 La présente version de la politique de confidentialité des Services entre en vigueur le X novembre 2025.
+
+Elles peuvent faire l'objet d'une modification à tout moment, moyennant un délai d'information préalable de 30 jours avant l'entrée en vigueur d'une version ultérieure.
