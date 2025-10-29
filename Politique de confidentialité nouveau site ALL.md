@@ -15,7 +15,6 @@ La présente Politique se divise en deux parties : une première partie décriva
 
 ## Mises à jour de la Politique
 Nous nous réservons le droit de mettre à jour ou de modifier cette Politique de Confidentialité à tout moment. Toute modification que nous apporterons sera publiée sur cette page, et toute mise à jour substantielle susceptible d’avoir un impact sur vos droits ou libertés sera notifiée par des moyens appropriés tels qu’un envoi d’e-mail ou une notification dans l’interface des Services. Vous trouverez en bas de cette Politique un résumé des dernières modifications apportées.  
----
 
 ## Identité du Responsable de Traitement et DPO
 
