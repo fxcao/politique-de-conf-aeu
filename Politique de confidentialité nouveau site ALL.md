@@ -8,7 +8,9 @@ Merci de prendre le temps de consulter notre Politique de Confidentialité (ci-a
 
 Les termes définis à l’article 4 du Règlement (UE) 2016/679 du Parlement européen et du Conseil (dit “RGPD”) ont la même signification lorsqu’ils sont utilisés dans cette Politique. Les termes commençant par une majuscule ont la signification qui leur est donnée dans la présente Politique ou, à défaut, dans les Conditions Générales d’Utilisation de [www.all-lacatho.fr](http://www.all-lacatho.fr).
 
-Cette Politique de Confidentialité s’applique exclusivement aux traitements réalisés par l’Association d’Entraide Universitaire (ci-après “AEU”, “nous” ou “All”) que nous mettons en œuvre en notre qualité de responsable de traitement sur les données collectées sur les Services. Ces données concernent les personnes utilisant les Services (ci-après “Internautes”, “vous”) et qui peuvent aussi disposer d’un compte personnel dédié à leur utilisation des Services (ci-après “Compte Utilisateur”) qui sont alors désignés comme “Utilisateur” au sein de la “Politique”.
+Cette Politique de Confidentialité s'applique exclusivement aux traitements réalisés par l'Association d'Entraide Universitaire (ci-après "AEU", "nous" ou "All") que nous mettons en œuvre en notre qualité de responsable de traitement sur les données collectées sur les Services. Ces données concernent les personnes utilisant les Services (ci-après "Internautes", "vous") et qui peuvent aussi disposer d'un compte personnel dédié à leur utilisation des Services (ci-après "Compte Utilisateur") qui sont alors désignés comme "Utilisateur" au sein de la "Politique".
+
+**Mailjet** désigne la société Mailjet, SAS, fournisseur d'une solution d'emailing, dont le siège social est situé au 43 rue de Dunkerque, 75010 Paris, France.
 
 La présente Politique se divise en deux parties : une première partie décrivant les traitements de données réalisés dans le cadre des Services (finalités, catégories de données traitées, bases légales, durées de conservation, destinataires…), et une seconde partie détaillant les conditions de mise en œuvre de ces traitements (mesures de sécurité, recours à des sous-traitants, etc.).
 
@@ -1261,7 +1263,7 @@ Ce traitement est mis en oeuvre par le service communnication de l'AEU.
 Ces informations sont conservées aussi longtemps que vos disposez d'un Compte Utilisateur Moneweb.
 
 ##### Où sont hébergées ces données et à qui sont elles transmises ?
-Les données sont hébergées chez par JES, éditeurs de Moneweb, et par Mailjet, SAS, fournisseur d'une solution d'emailing mobilisée par le service communication pour vous envoyer ces informations. Infomaniak, à titre d'hébergeur de la base de données du Site, est également sujet à recueillir ces données en tant que sous-traitant de l'AEU, pour les besoins du fonctionnement des Services.
+Les données sont hébergées chez par JES, éditeurs de Moneweb, et par **Mailjet** (43 rue de Dunkerque, 75010 Paris, France), fournisseur d'une solution d'emailing mobilisée par le service communication pour vous envoyer ces informations. Infomaniak, à titre d'hébergeur de la base de données du Site, est également sujet à recueillir ces données en tant que sous-traitant de l'AEU, pour les besoins du fonctionnement des Services.
 
 #### 1.10.2. La lettre d'information relative à l'utilisation du Site par les Utilisteurs
 
@@ -1278,7 +1280,7 @@ Ce traitement est mis en oeuvre par l'AEU.
 Ces informations sont conservées en base active aussi longtemps que votre Compte Utilisateur existe. Elles sont alors supprimées après une période de 12 mois, sauf impératif légal de conservation (notamment si la tenue comptable l'exige).
 
 ##### Où sont hébergées ces données et à qui sont elles transmises ?
-Les informations traitées dans ce cadre sont stockées chez Infomaniak, hébergeur des données du Site, et l'envoi s'effectue par l'AEU au moyen des services de Mailjet, SAS, fournisseur d'une solution d'emailing. Mailjet recours à des serveurs situés aux États Unis d'Amérique, pays avec lequel il existe une décision d'adéquation concernant le niveau de protection des données personnelles.
+Les informations traitées dans ce cadre sont stockées chez Infomaniak, hébergeur des données du Site, et l'envoi s'effectue par l'AEU au moyen des services de **Mailjet** (43 rue de Dunkerque, 75010 Paris, France). Mailjet recourt à des serveurs situés aux États Unis d'Amérique, pays avec lequel il existe une décision d'adéquation concernant le niveau de protection des données personnelles.
 ---
 
 ## Partie 2 \- Description des conditions de réalisation des traitements
