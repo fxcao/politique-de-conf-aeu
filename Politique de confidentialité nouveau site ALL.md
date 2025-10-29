@@ -4,9 +4,9 @@ Dernière mise à jour : X novembre 2025
 
 # Introduction
 
-Merci de prendre le temps de consulter notre Politique de Confidentialité (ci-après “Politique” ou “Politique de Confidentialité”). Ce document vous informe sur les traitements de données à caractère personnel qui vous concernent, mis en œuvre dans le cadre des services en ligne fournis par l’Association d’Entraide Universitaire sur le site [www.all-lacatho.fr](http://www.all-lacatho.fr) et [https://logement.all-lacatho.fr/](https://logement.all-lacatho.fr/) (ci-après les “Services”). Il vous informe également sur vos droits en matière de protection des données. Pour toute question relative à cette Politique, vous pouvez à tout moment contacter notre délégué à la protection des données (DPO) à l’adresse suivante : dpo@all-lacatho.fr.
+Merci de prendre le temps de consulter notre Politique de Confidentialité (ci-après "Politique" ou "Politique de Confidentialité"). Ce document vous informe sur les traitements de données à caractère personnel qui vous concernent, mis en œuvre dans le cadre des services en ligne fournis par l'Association d'Entraide Universitaire sur le site [www.all-lacatho.fr](http://www.all-lacatho.fr) et [https://logement.all-lacatho.fr/](https://logement.all-lacatho.fr/) (ci-après les "Services"). Il vous informe également sur vos droits en matière de protection des données. Pour toute question relative à cette Politique, vous pouvez à tout moment contacter notre délégué à la protection des données (DPO) à l'adresse suivante : dpo@all-lacatho.fr.
 
-Les termes définis à l’article 4 du Règlement (UE) 2016/679 du Parlement européen et du Conseil (dit “RGPD”) ont la même signification lorsqu’ils sont utilisés dans cette Politique. Les termes commençant par une majuscule ont la signification qui leur est donnée dans la présente Politique ou, à défaut, dans les Conditions Générales d’Utilisation de [www.all-lacatho.fr](http://www.all-lacatho.fr).
+Les termes définis à l'article 4 du Règlement (UE) 2016/679 du Parlement européen et du Conseil (dit "RGPD") ont la même signification lorsqu'ils sont utilisés dans cette Politique. Les termes commençant par une majuscule ont la signification qui leur est donnée dans la présente Politique ou, à défaut, dans les Conditions Générales d'Utilisation de [www.all-lacatho.fr](http://www.all-lacatho.fr).
 
 Cette Politique de Confidentialité s'applique exclusivement aux traitements réalisés par l'Association d'Entraide Universitaire (ci-après "AEU", "nous" ou "All") que nous mettons en œuvre en notre qualité de responsable de traitement sur les données collectées sur les Services. Ces données concernent les personnes utilisant les Services (ci-après "Internautes", "vous") et qui peuvent aussi disposer d'un compte personnel dédié à leur utilisation des Services (ci-après "Compte Utilisateur") qui sont alors désignés comme "Utilisateur" au sein de la "Politique".
 
@@ -14,1460 +14,563 @@ Cette Politique de Confidentialité s'applique exclusivement aux traitements ré
 
 La présente Politique se divise en deux parties : une première partie décrivant les traitements de données réalisés dans le cadre des Services (finalités, catégories de données traitées, bases légales, durées de conservation, destinataires…), et une seconde partie détaillant les conditions de mise en œuvre de ces traitements (mesures de sécurité, recours à des sous-traitants, etc.).
 
-
 ## Mises à jour de la Politique
-Nous nous réservons le droit de mettre à jour ou de modifier cette Politique de Confidentialité à tout moment. Toute modification que nous apporterons sera publiée sur cette page, et toute mise à jour substantielle susceptible d’avoir un impact sur vos droits ou libertés sera notifiée par des moyens appropriés tels qu’un envoi d’e-mail ou une notification dans l’interface des Services. Vous trouverez en bas de cette Politique un résumé des dernières modifications apportées.  
+Nous nous réservons le droit de mettre à jour ou de modifier cette Politique de Confidentialité à tout moment. Toute modification que nous apporterons sera publiée sur cette page, et toute mise à jour substantielle susceptible d'avoir un impact sur vos droits ou libertés sera notifiée par des moyens appropriés tels qu'un envoi d'e-mail ou une notification dans l'interface des Services. Vous trouverez en bas de cette Politique un résumé des dernières modifications apportées.  
 
 ## Identité du Responsable de Traitement et DPO
 
-Le responsable des traitements décrits dans cette Politique de Confidentialité est l’**Association d’Entraide Universitaire**, immatriculée au SIRET sous le numéro 783 685 696 00016, dont le siège social est situé au 47 boulevard Vauban, 59 000 Lille, France.
+Le responsable des traitements décrits dans cette Politique de Confidentialité est l'**Association d'Entraide Universitaire**, immatriculée au SIRET sous le numéro 783 685 696 00016, dont le siège social est situé au 47 boulevard Vauban, 59 000 Lille, France.
 
-L’AEU dispose d’un service référent pour la conformité au RGPD. Pour toute question relative à la protection des données ou pour exercer vos droits, vous pouvez contacter ce service à l’adresse suivante : dpo@all-lacatho.fr.
+L'AEU dispose d'un service référent pour la conformité au RGPD. Pour toute question relative à la protection des données ou pour exercer vos droits, vous pouvez contacter ce service à l'adresse suivante : dpo@all-lacatho.fr.
 
 ---
 
-## Partie 1 \- Description des traitements réalisés dans le cadre des Services
+## Informations générales sur les prestataires et transferts de données
+
+### Prestataires récurrents
+
+Pour garantir le bon fonctionnement des Services, l'AEU fait appel aux prestataires suivants, mentionnés dans différents traitements :
+
+| Prestataire | Service | Adresse |
+|------------|--------|---------|
+| **NEOWEB** | Développement et maintenance informatique | 165 avenue de Bretagne, 59000 Lille, France |
+| **Infomaniak Network SA** | Hébergement de données | 25 rue Eugène-Marziano, 1227 Genève, Suisse |
+| **JES Labs, SA** | Solution Moneweb (réservation et paiement) | 5 rue Guglielmo Marconi, 44800 Saint-Herblain, France |
+| **IRIGA-NETWORKS** | Solution WEASYLOC (gestion locataires) | - |
+| **SERVICES ET INFRASTRUCTURE, SARL** | Maintenance des serveurs | 241 AVENUE CLÉMENT ADER, 59118 WAMBRECHIES |
+| **HOROQUARTZ** | Gestion et édition des Cartes All | Bât Château Rouge, 282 Av. de la Marne, 59700 Marcq-en-Barœul |
+| **Le Casier Français, SARL** | Distribution sur points de retrait | Zone Acti+, Rte de Vendeville Bâtiment 6, 59175 Templemars |
+| **Mailjet** | Solution d'emailing | 43 rue de Dunkerque, 75010 Paris, France |
+| **Worldline** | Solution de paiement en ligne | Tour Voltaire, 1 Place des Degrés, CS 81162, 92059 Paris la Défense Cedex |
+| **SOGECOMMERCE** | Solution de paiement (Société Générale) | - |
+| **CEGEDIM SANTÉ** | Plateforme Maiia Agenda (prise de rendez-vous médicaux) | - |
+
+### Transferts hors Union européenne
+
+**Transfert vers la Suisse** : Certaines données peuvent être hébergées en Suisse par **Infomaniak Network SA**. La Suisse est reconnue par l'Union européenne comme offrant un niveau de protection des données équivalent. Des accords contractuels spécifiques garantissent la sécurité et la confidentialité de vos informations.
+
+**Autres transferts** : 
+- **Worldline** peut procéder à des transferts hors Union européenne tout en garantissant des garanties appropriées
+- **Google Ireland Limited** (Google Tag Manager/Analytics) peut transférer vers les États-Unis ou d'autres pays tiers, avec clauses contractuelles types approuvées par la Commission européenne
+- **Mailjet** utilise des serveurs aux États-Unis, pays avec lequel il existe une décision d'adéquation concernant le niveau de protection des données personnelles
+
+### Conservation générale des données de compte
+
+**Principe général** : Les données liées aux comptes utilisateurs sont conservées :
+- **Tant que le compte est actif** : pour permettre l'accès aux Services
+- **Après suppression du compte** : suppression ou anonymisation dans un délai raisonnable, sauf obligations légales ou administratives nécessitant une conservation prolongée
+
+**Durées spécifiques** : Les durées de conservation spécifiques sont indiquées dans chaque traitement décrit ci-dessous.
+
+---
+
+## Partie 1 - Description des traitements réalisés dans le cadre des Services
 
 ### 1.1. Gestion des comptes utilisateurs
 
-Pour que vous puissiez utiliser nos Services, nous avons besoin de collecter et de traiter certaines informations vous concernant. Voici ce que vous devez savoir à ce sujet :
-
 #### 1.1.1. Création de votre compte utilisateur
 
-Lorsque vous vous inscrivez pour créer un compte sur notre site, nous vous demandons de fournir certaines informations. Une fois votre compte créé, vous devenez utilisateur de nos Services après avoir accepté nos Conditions générales, disponibles à cette adresse : [https://www.all-lacatho.fr/fr/conditions-generales-de-vente](https://www.all-lacatho.fr/fr/conditions-generales-de-vente).
+**Informations collectées** : Prénom, nom, adresse e-mail, mot de passe (chiffré), statut de confirmation de l'inscription.
 
-##### Les informations que nous collectons
+**Finalité** : Gestion de votre compte et accès aux Services. Acceptation des Conditions générales requise : [https://www.all-lacatho.fr/fr/conditions-generales-de-vente](https://www.all-lacatho.fr/fr/conditions-generales-de-vente)
 
-Nous collectons uniquement les informations nécessaires pour vous identifier et vous permettre d’utiliser nos Services :
+**Prestataires** : NEOWEB, Infomaniak Network SA
 
-* Votre prénom,  
-* Votre nom,  
-* Votre adresse e-mail,  
-* Votre mot de passe (il est sécurisé et chiffré, donc illisible pour nous),  
-* Le statut de confirmation de votre inscription.
+**Conservation** : 
+- Données de compte : tant que le compte est actif, puis suppression/anonymisation
+- Logs de connexion : 12 mois (obligation légale)
 
-##### À quoi servent ces informations ?
+**Transfert hors UE** : Suisse (Infomaniak Network SA) - voir section "Transferts hors Union européenne"
 
-Ces informations sont utilisées pour gérer votre compte et vous donner accès à nos Services. Elles ne sont partagées qu’avec l’**Association d’Entraide Universitaire (AEU)** et deux entreprises qui nous aident à assurer le bon fonctionnement du site :
+#### 1.1.2. Envoi d'emails de confirmation des inscriptions
 
-* **NEOWEB** (développement et maintenance informatique) : 165 avenue de Bretagne, 59000 Lille, France.  
-* **Infomaniak Network SA** (hébergement de vos données) : 25 rue Eugène-Marziano, 1227 Genève, Suisse.
+**Informations collectées** : Adresse e-mail, statut d'inscription (confirmée/en attente)
 
-##### Combien de temps gardons-nous vos informations ?
+**Finalité** : Vérification de l'adresse e-mail fournie lors de l'inscription. Sans confirmation, le compte ne peut être activé.
 
-Nous conservons vos informations uniquement aussi longtemps que nécessaire :
+**Prestataires** : NEOWEB, Infomaniak Network SA
 
-1. **Vos données de compte** : Nous les gardons tant que votre compte est actif. Une fois que vous le supprimez, vos informations sont effacées ou rendues anonymes dans un délai raisonnable.  
-2. **Vos données de connexion** (les "logs") : Par obligation légale, nous devons les conserver pendant 12 mois après leur collecte.
+**Conservation** : Tant que le compte est actif. Si non confirmée dans un délai raisonnable, suppression.
 
-Après ces périodes, vos données sont supprimées ou rendues anonymes, sauf si nous devons les conserver pour des raisons légales ou pour résoudre un problème spécifique.
-
-##### Vos données sont-elles envoyées hors d’Europe ?
-
-Oui, mais uniquement en Suisse, car notre hébergeur, **Infomaniak Network SA**, est basé là-bas. Pas de panique : la Suisse est reconnue par l’Union européenne comme un pays offrant un niveau de protection des données équivalent à celui de l’Europe.  
-En plus, nous avons signé avec Infomaniak un accord spécial pour garantir que vos données restent bien protégées.
-
-#### 1.1.2. Envoi d’emails de confirmation des inscriptions
-
-Lorsque vous vous inscrivez à nos Services, nous envoyons un email pour confirmer votre inscription. Voici les détails sur ce traitement :
-
-##### Pourquoi envoyons-nous ces emails ?
-
-Ces emails permettent de vérifier que l’adresse e-mail fournie lors de votre inscription est correcte et réellement utilisée par vous. Sans cette étape, vous ne pourrez pas activer votre compte.
-
-##### Les informations utilisées
-
-Pour envoyer ces emails, nous utilisons uniquement :
-
-* Votre adresse e-mail,  
-* Le statut de votre inscription (confirmée ou en attente).
-
-##### Qui gère cet envoi ?
-
-L’envoi des emails est réalisé directement par l’**Association d’Entraide Universitaire (AEU)** avec l’aide de nos prestataires, qui assurent le bon fonctionnement des Services :
-
-* **NEOWEB** (maintenance et développement informatique des Services), situé au 165 avenue de Bretagne, 59000 Lille, France.  
-* **Infomaniak Network SA** (hébergement des données des Services), situé au 25 rue Eugène-Marziano, 1227 Genève, Suisse.
-
-##### Combien de temps gardons-nous vos informations ?
-
-Les données nécessaires à l’envoi des emails (votre adresse e-mail et le statut de votre inscription) sont conservées :
-
-1. Tant que votre compte est actif.  
-2. Si votre inscription n’est pas confirmée dans un délai raisonnable, vos informations seront supprimées.
-
-##### Vos données sont-elles envoyées hors d’Europe ?
-
-Oui, comme pour la gestion de votre compte, vos données peuvent être hébergées en Suisse par notre partenaire, **Infomaniak Network SA**. La Suisse est reconnue par l’Union européenne comme offrant un niveau de protection des données équivalent au nôtre, et nous avons signé des accords pour garantir cette sécurité.
+**Transfert hors UE** : Suisse (Infomaniak Network SA)
 
 #### 1.1.3. Administration des comptes utilisateurs et de leurs permissions
 
-Pour vous permettre d’utiliser nos Services en toute sécurité et de manière adaptée à vos besoins, nous gérons les informations liées à votre compte et à vos permissions d’accès. Voici les détails de ce traitement :
+**Informations collectées** : Prénom, nom, adresse e-mail, statut d'utilisateur (actif/inactif/supprimé), permissions d'accès
 
-##### Pourquoi gérons-nous vos comptes et permissions ?
+**Finalité** : Gestion des accès aux fonctionnalités selon le rôle/profil, maintien de la sécurité des Services
 
-Nous avons besoin de gérer vos comptes pour :
+**Prestataires** : NEOWEB, Infomaniak Network SA
 
-* Vous donner accès aux fonctionnalités des Services en fonction de votre rôle ou de votre profil.  
-* Maintenir la sécurité de nos Services en contrôlant qui peut accéder à quoi.
+**Conservation** : Tant que le compte est actif. Après suppression, conservation temporaire dans les archives si nécessaire (obligations légales ou résolution de problèmes).
 
-##### Les informations utilisées
-
-Dans le cadre de l’administration des comptes utilisateurs, nous utilisons les informations suivantes :
-
-* Vos prénom et nom,  
-* Votre adresse e-mail,  
-* Votre statut d’utilisateur (actif, inactif, ou supprimé),  
-* Vos permissions d’accès aux différentes fonctionnalités des Services.
-
-##### Qui gère ces informations ?
-
-Ces informations sont administrées par l’**Association d’Entraide Universitaire (AEU)** et peuvent être partagées avec nos partenaires techniques, afin d’assurer le bon fonctionnement des Services :
-
-* **NEOWEB** (maintenance et développement informatique), situé au 165 avenue de Bretagne, 59000 Lille, France.  
-* **Infomaniak Network SA** (hébergement des données), situé au 25 rue Eugène-Marziano, 1227 Genève, Suisse.
-
-##### Combien de temps gardons-nous ces informations ?
-
-Les données liées à l’administration des comptes et permissions sont conservées :
-
-1. **Tant que votre compte est actif** : Nous gardons vos informations pour vous permettre d’accéder aux Services.  
-2. **Après suppression du compte** : Certaines informations peuvent être temporairement conservées dans nos archives pendant une période raisonnable, en cas de besoins spécifiques (obligations légales ou résolution de problèmes).
-
-#### Vos données sont-elles envoyées hors de l’Union européenne ?
-
-Oui, certaines données peuvent être hébergées en Suisse par notre prestataire, **Infomaniak Network SA**. La Suisse est reconnue par l’Union européenne comme offrant un niveau de protection des données équivalent au nôtre, et des accords spécifiques garantissent la sécurité de vos informations.
+**Transfert hors UE** : Suisse (Infomaniak Network SA)
 
 #### 1.1.4. Rapprochement des comptes utilisateurs avec les comptes étudiants
 
-Dans le cadre de nos Services, nous réalisons un rapprochement entre votre compte utilisateur sur notre site et votre compte étudiant dans les écoles et établissements relevant de l’Université Catholique de Lille.
+**Informations collectées** : 
+- Compte utilisateur : prénom, nom, adresse e-mail
+- Compte étudiant : matricule étudiant, statut d'inscription, établissement de rattachement
+- Carte All : nom, prénom, numéro unique d'identification
 
-##### Pourquoi réalisons-nous ce rapprochement ?
+**Finalité** : Vérification du statut étudiant, création de la Carte All, accès aux services étudiants, adaptation des fonctionnalités selon l'établissement
 
-Ce rapprochement est nécessaire pour :
+**Prestataires** : NEOWEB, Infomaniak Network SA, HOROQUARTZ, SERVICES ET INFRASTRUCTURE SARL
 
-* Vérifier que vous êtes bien étudiant au sein d’un établissement de l’Université Catholique de Lille,  
-* Vous créer une carte individuelle d’accès aux Services, aussi appelée “**Carte All”,**   
-* Vous permettre d’accéder à des services spécifiques réservés aux étudiants,  
-* Adapter les fonctionnalités des Services en fonction de votre établissement ou de votre statut.
+**Conservation** : Pendant la durée d'inscription en tant qu'étudiant actif. Après fin du statut étudiant, suppression/anonymisation dans un délai raisonnable, sauf obligations légales.
 
-##### Les informations utilisées
+**Transfert hors UE** : Suisse (Infomaniak Network SA)
 
-Pour effectuer ce rapprochement, nous traitons les informations suivantes :
+#### 1.1.5. Enregistrement des préférences pour l'envoi de notifications par email
 
-* Les informations de votre compte utilisateur : prénom, nom, adresse e-mail,  
-* Les informations fournies par votre établissement : matricule étudiant, statut d’inscription, établissement de rattachement.  
-* Les informations liées à votre Carte All : nom, prénom, numéro unique d’identification
+**Informations collectées** : Adresse e-mail, numéro d'identification du compte, choix de notifications (activées/désactivées)
 
-##### Qui gère ce traitement ?
+**Finalité** : Personnalisation des notifications reçues. Configuration via la section "Mon Compte".
 
-Ce rapprochement est réalisé par l’**Association d’Entraide Universitaire (AEU)** en collaboration avec les établissements de l’Université Catholique de Lille. Les informations sont également partagées, si nécessaire, avec nos prestataires techniques pour garantir le bon fonctionnement des Services :
+**Prestataires** : NEOWEB, Infomaniak Network SA
 
-* **NEOWEB** (maintenance et développement informatique), situé au 165 avenue de Bretagne, 59000 Lille, France,  
-* **Infomaniak Network SA** (hébergement des données), situé au 25 rue Eugène-Marziano, 1227 Genève, Suisse.  
-* **HOROQUARTZ** (fournisseur de la solution de gestion et d’édition des Cartes All), situé Bât Château Rouge, 282 Av. de la Marne, 59700 Marcq-en-Barœul  
-* **SERVICES ET INFRASTRUCTURE, SARL**, (prestataire de maintenance des serveurs) situé 241 AVENUE CLÉMENT ADER, 59118 WAMBRECHIES
+**Conservation** : Tant que le compte utilisateur est actif, puis suppression après suppression du compte.
 
-##### Combien de temps gardons-nous ces informations ?
-
-Les données utilisées pour le rapprochement sont conservées :
-
-1. **Pendant la durée de votre inscription en tant qu’étudiant actif** dans un établissement de l’Université Catholique de Lille,  
-2. **Après la fin de votre statut étudiant** : Vos données de rapprochement sont supprimées ou anonymisées dans un délai raisonnable, sauf si leur conservation est nécessaire pour répondre à une obligation légale ou résoudre un problème particulier.
-
-##### Vos données sont-elles envoyées hors d’Europe ?
-
-Certaines informations peuvent être hébergées en Suisse par notre prestataire, **Infomaniak Network SA**. La Suisse offre un niveau de protection des données reconnu comme équivalent à celui de l’Union européenne, et nous avons pris des mesures contractuelles pour garantir leur sécurité.
-
-#### 1.1.5. Enregistrement des préférences pour l’envoi de notifications par email
-
-Pour vous permettre de recevoir uniquement les notifications par email qui vous intéressent, nous enregistrons vos préférences, que vous pouvez définir via les fonctionnalités des Services accessibles depuis la section “Mon Compte”. Voici les détails sur ce traitement :
-
-##### Pourquoi enregistrons-nous vos préférences ?
-
-L’objectif est de vous offrir un service personnalisé en vous permettant de choisir :
-
-* Les types de notifications que vous souhaitez recevoir (par exemple : rappels, informations importantes, événements),  
-* Si vous souhaitez continuer ou non à recevoir certaines communications par email.
-
-Cela garantit que vous ne recevez que les emails qui vous concernent et que vous avez choisis.
-
-##### Les informations utilisées
-
-Pour gérer vos préférences, nous collectons et enregistrons :
-
-* Votre adresse e-mail,  
-* Votre numéro d’identification unique de votre Compte Utilisateur  
-* Vos choix en matière de notifications (préférences activées ou désactivées).
-
-##### Qui gère ce traitement ?
-
-Ce traitement est réalisé par l’Association d’Entraide Universitaire (AEU), en collaboration avec ses prestataires :
-
-* NEOWEB (maintenance et développement informatique), situé au 165 avenue de Bretagne, 59000 Lille, France,  
-* Infomaniak Network SA (hébergement des données), situé au 25 rue Eugène-Marziano, 1227 Genève, Suisse.
-
-##### Combien de temps gardons-nous ces informations ?
-
-Les données liées à vos préférences de notification sont conservées :
-
-1. Tant que votre compte utilisateur est actif,  
-2. Après la suppression de votre compte, vos préférences sont également supprimées.
-
-##### Vos données sont-elles envoyées hors d’Europe ?
-
-Certaines données peuvent être hébergées en Suisse par Infomaniak Network SA. La Suisse est reconnue par l’Union européenne comme offrant un niveau de protection des données équivalent au nôtre, et des accords spécifiques garantissent la sécurité de vos informations.
+**Transfert hors UE** : Suisse (Infomaniak Network SA)
 
 #### 1.1.6. Modification en ligne des mots de passe
 
-Pour garantir la sécurité de votre compte utilisateur, nous vous permettons de modifier votre mot de passe directement en ligne. Voici les détails de ce traitement :
+**Informations collectées** : Adresse e-mail, ancien mot de passe (si requis pour validation), nouveau mot de passe (chiffré immédiatement)
 
-##### Pourquoi vous permettons-nous de modifier votre mot de passe en ligne ?
+**Finalité** : Sécurisation du compte en cas de suspicion de compromission, mise à jour du mot de passe
 
-Cette fonctionnalité a pour but de :
+**Prestataires** : NEOWEB, Infomaniak Network SA
 
-* Vous permettre de sécuriser votre compte en cas de suspicion de compromission,  
-* Vous donner la possibilité de mettre à jour facilement votre mot de passe si vous l’avez oublié ou souhaitez le changer.
+**Conservation** : Les mots de passe sont chiffrés dès l'enregistrement (jamais en clair). L'empreinte cryptographique est conservée jusqu'à la suppression du Compte Utilisateur.
 
-##### Les informations utilisées
+**Transfert hors UE** : Suisse (Infomaniak Network SA)
 
-Dans le cadre de la modification de votre mot de passe, nous traitons les informations suivantes :
+#### 1.1.7. Gestion de l'authentification des utilisateurs
 
-* Votre adresse e-mail (pour identifier votre compte),  
-* Votre ancien mot de passe (lorsqu’il est requis pour valider la modification),  
-* Votre nouveau mot de passe (qui est immédiatement chiffré et sécurisé).
+**Informations collectées (cookies)** :
+- `SRVGROUP` : répartition de charge (session)
+- `__Host-next-auth.csrf-token` : protection CSRF
+- `__Secure-next-auth.callback-url` : URL de redirection après connexion (session)
+- `route` : navigation sécurisée
+- `KC_RESTART` : reprise de session
+- `AUTH_SESSION_ID_LEGACY` et `AUTH_` : identifiants de session (365 jours)
 
-##### Qui gère ce traitement ?
+**Finalité** : Connexion sécurisée, gestion de l'authentification, continuité de session, redirection après connexion. Cookies strictement nécessaires, non utilisés à des fins publicitaires.
 
-La modification des mots de passe est administrée par l’Association d’Entraide Universitaire (AEU). Nous collaborons également avec nos prestataires pour garantir la sécurité et la disponibilité du service :
+**Prestataires** : NEOWEB, Infomaniak Network SA
 
-* NEOWEB (maintenance et développement informatique), situé au 165 avenue de Bretagne, 59000 Lille, France,  
-* Infomaniak Network SA (hébergement des données), situé au 25 rue Eugène-Marziano, 1227 Genève, Suisse.
+**Conservation** : Cookies de session (supprimés à la fermeture du navigateur) ou 365 jours pour les cookies d'authentification.
 
-##### Combien de temps gardons-nous ces informations ?
+**Transfert hors UE** : Suisse (Infomaniak Network SA)
 
-Les mots de passe sont chiffrés dès leur enregistrement et ne sont jamais stockés en clair.  
-Une fois le chiffrement du mot de passe effectué, il en résulte une empreinte cryptographique, qui est conservée jusqu’à la suppression de votre Compte Utilisateur
+### 1.2. Gestion des demandes d'attribution de logements
 
-##### Vos données sont-elles envoyées hors d’Europe ?
+#### 1.2.1. Création d'un compte sur l'Espace Locataire
 
-Comme pour les autres données, certaines informations peuvent être hébergées en Suisse par Infomaniak Network SA. Grâce à des accords spécifiques et à la reconnaissance de la Suisse par l’Union européenne comme pays offrant un niveau de protection des données adéquat, vos informations restent sécurisées.
+**Informations collectées** : Identifiant, mot de passe, civilité, nom, prénom, email
 
-#### 1.1.7. Gestion de l’authentification des utilisateurs sur [https://all-lacatho.fr](https://all-lacatho.fr)
+**Finalité** : Identification sécurisée, réservation/renouvellement de logement en ligne, accès à l'espace locataire
 
-Gestion de l’authentification des utilisateurs sur le site https://all-lacatho.fr
+**Prestataires** : IRIGA-NETWORKS (solution WEASYLOC), SERVICES ET INFRASTRUCTURE SARL
 
-Pour sécuriser l’accès à votre compte et garantir le bon fonctionnement de la connexion à nos Services, nous utilisons des cookies techniques liés à l’authentification. Voici les détails de ce traitement :
+**Conservation** : Tant que le compte est actif, puis suppression après suppression du compte
 
-**Pourquoi utilisons-nous ces cookies ?**
+**Transfert hors UE** : Aucun
 
-Ces cookies sont nécessaires pour :
+#### 1.2.2. Demande de location ou renouvellement d'un logement étudiant
 
-	•	Permettre votre connexion sécurisée à votre compte utilisateur,
+**Informations collectées** :
+- **Identification et études** : Civilité, prénom, nom, date et lieu de naissance, nationalité, email, téléphone mobile, INE, école, année d'étude, adresse complète
+- **Documents** : Photo, document d'identité, VISA/titre de séjour
+- **Séjour** : Année scolaire, dates d'arrivée/départ, choix de résidence et type de logement
+- **Personne de confiance** : Civilité, nom, prénom, relation, téléphone, email
+- **Garant financier** : Civilité, prénom, nom, adresse complète, nationalité, date et lieu de naissance, téléphone, email, profession, statut professionnel, documents d'identité, justificatifs de domicile, avis d'imposition, fiche de paie, attestations, Visa VISALE, carte d'identité du représentant légal si mineur
 
-	•	Gérer correctement les étapes de l’authentification,
+**Finalité** : Réservation/renouvellement de logement étudiant en ligne, gestion des candidatures pour les campagnes d'attribution
 
-	•	Garantir la continuité de votre session sans que vous ayez à vous reconnecter à chaque page,
+**Prestataires** : IRIGA-NETWORKS (solution WEASYLOC), SERVICES ET INFRASTRUCTURE SARL
 
-	•	Vous rediriger vers la bonne page après connexion, si besoin.
+**Conservation** :
+- **Demande refusée** : 3 mois en base active à compter du refus, puis suppression
+- **Demande acceptée** : toute la durée du bail en base active, puis 3 ans à compter de la fin du bail
 
-Ces cookies ne sont pas utilisés à des fins publicitaires ou de suivi comportemental. Ils sont strictement nécessaires au fonctionnement du site.
+**Transfert hors UE** : Aucun
 
-**Les données collectées (via cookies déposés)**
+#### 1.2.3. Étude de demandes de réduction de préavis de baux
 
-Lorsque vous vous connectez ou accédez à des pages nécessitant une authentification, les cookies suivants peuvent être déposés :
+**Informations collectées** : Prénom, nom, email, numéro de locataire, informations du bail (adresse, dates, durée du préavis), pièces justificatives (certificats médicaux, attestations)
 
-	•	SRVGROUP : permet d’assurer la répartition de charge et le bon fonctionnement technique du site,
+**Finalité** : Étude et analyse des demandes de réduction de préavis, vérification des conditions, réponse adaptée
 
-	•	\_\_Host-next-auth.csrf-token : empêche les attaques de type “Cross Site Request Forgery” (CSRF),
+**Prestataires** : IRIGA-NETWORKS (solution WEASYLOC), SERVICES ET INFRASTRUCTURE SARL
 
-	•	\_\_Secure-next-auth.callback-url : mémorise l’URL vers laquelle vous devez être redirigé après connexion,
+**Conservation** : Pendant le traitement, puis suppression des données justificatives. Conservation du statut (accepté/refusé) pendant 3 ans en archivage légal.
 
-	•	route : gère la navigation sécurisée entre les différentes pages du site,
-
-	•	KC\_RESTART : permet la reprise de session en cas d’interruption temporaire,
-
-	•	AUTH\_SESSION\_ID\_LEGACY et AUTH\_ : identifiants de session permettant de maintenir votre authentification active pendant une durée déterminée.
-
-**Qui gère ce traitement ?**
-
-La gestion de l’authentification est assurée par l’Association d’Entraide Universitaire (AEU), avec le concours de ses partenaires techniques :
-
-	•	**NEOWEB** (maintenance et développement du site), situé au 165 avenue de Bretagne, 59000 Lille, France,
-
-	•	**Infomaniak Network SA** (hébergement des données), situé au 25 rue Eugène-Marziano, 1227 Genève, Suisse.
-
-**Combien de temps gardons-nous ces cookies ?**
-
-Les cookies d’authentification sont temporaires et ne sont conservés que pendant :
-
-Le cookie SRVGROUP ainsi que le cookie \_\_Secure-next-auth.callback-url  sont des cookies de session, et ils sont supprimés lorsque vous fermez votre navigateur.
-
-En revanche les autres cookies sont conservés pour une durée de 365 jours
-
-Ils sont automatiquement supprimés une fois la session expirée ou que vous vous déconnectez.
-
-**Vos données sont-elles envoyées hors d’Europe ?**
-
-Certains cookies peuvent être associés à des services hébergés en Suisse par Infomaniak Network SA, un hébergeur reconnu par l’Union européenne comme garantissant un niveau de protection des données personnelles équivalent. Des accords spécifiques sont en place pour assurer la sécurité et la confidentialité des données
-
-### 1.2. Gestion des demandes d’attribution de logements
-
-#### 1.2.1 Création d’un compte sur l’Espace Locataire sur logement.all-lacatho.fr
-
-Pour faciliter votre recherche ou renouvellement de logement étudiant, nous proposons un service de réservation en ligne via le site internet accessible à l’adresse [https://logement.all-lacatho.fr](https://logement.all-lacatho.fr) (ci-après désigné “Espace Locataire”). Cela nécessite de se créer un compte.
-
-##### Pourquoi avons-nous besoin de créer votre compte ?
-
-La création d’un compte est nécessaire pour :
-
-* Vous identifier de manière sécurisée,  
-* Vous permettre de réserver ou renouveler un logement en ligne,  
-* Vous offrir un accès personnalisé à votre espace locataire, où vous pouvez consulter vos réservations et gérer vos informations.
-
-#### **Les informations collectées**
-
-Lors de la création de votre compte, nous collectons les informations suivantes :
-
-* Votre Identifiant  
-* Votre Mot de passe  
-* Votre Civilité  
-* Votre Nom  
-* Votre Prénom  
-* Votre Email
-
-#### **Qui gère ce traitement ?**
-
-La création et la gestion des comptes sur l’espace locataire sont administrées par l’**Association d’Entraide Universitaire (AEU)**. Nous collaborons avec nos prestataires pour garantir le fonctionnement et la sécurité de la plateforme :
-
-* **IRIGA-NETWORKS** (fournisseur de la solution WEASYLOC, logiciel en ligne utilisé pour réaliser ce traitement)  
-* **SERVICES ET INFRASTRUCTURE, SARL**, (prestataire de maintenance des serveurs) situé 241 AVENUE CLÉMENT ADER, 59118 WAMBRECHIE
-
-#### **Combien de temps gardons-nous ces informations ?**
-
-Les données de votre compte sont conservées :
-
-1. **Tant que votre compte est actif** : Cela vous permet d’accéder aux services de l’espace locataire.  
-2. **Après la suppression de votre compte** : Vos données sont supprimées.
-
-#### **Vos données sont-elles envoyées hors d’Europe ?**
-
-Ces informations ne font l’objet d’aucun transfert hors Union européenne.
-
-#### 1.2.2 Demande de location ou de renouvellement d’une location pour un logement étudiant sur l’Espace Locataire
-
-Pour faciliter votre recherche ou renouvellement de logement étudiant, nous proposons un service de réservation en ligne via l’Espace Locataire. Cet Espace Locataire permet de remplir un dossier locataire et de suivre une procédure d’attribution de prise à bail d’un logement étudiant.
-
-#### **Pourquoi utilisons-nous vos données pour ce service ?**
-
-Ce traitement est nécessaire pour :
-
-* Vous permettre de réserver un logement étudiant directement en ligne,  
-* Gérer les demandes de renouvellement de votre logement,  
-* Gérer les candidatures pour les campagnes d’attribution de logements
-
-#### **Les informations utilisées**
-
-Dans le cadre de la réservation ou du renouvellement d’un logement, nous collectons et utilisons les informations suivantes :
-
-* Informations d’identification et d’études  
-  * Votre Civilité  
-  * Votre Prénom  
-  * Votre Nom  
-  * Votre Date de naissance  
-  * Votre Lieu de naissance  
-  * Votre Nationalité  
-  * Votre Email  
-  * Votre Numéro téléphone mobile  
-  * Votre INE  
-  * Votre École  
-  * Votre Année d’étude  
-  * Votre Adresse  
-  * Votre Code postal  
-  * Votre Ville  
-  * Votre Pays  
-* Documents nécessaires à la réservation  
-  * Votre Photo du locataire  
-  * Votre Document d’identité  
-  * Votre VISA ou titre de séjour  
-* Informations relative au séjour de l’étudiant  
-  * Votre Année scolaire  
-  * Votre Date d’arrivée  
-  * Votre Date de départ  
-  * Votre Choix de résidence ordonnés  
-  * Votre Choix du type de logement  
-* Information sur la Personne de confiance  
-  * Votre Civilité  
-  * Votre Nom  
-  * Votre Prénom  
-  * Votre Relation avec le locataire (Parenté, Connaissance)  
-  * Votre Numéro de téléphone  
-  * Votre Adresse Email  
-* Information sur le garant financier personne physique  
-  * Votre Civilité  
-  * Votre Prénom  
-  * Votre Nom  
-  * Votre Adresse postale  
-  * Votre Code postal  
-  * Votre Ville  
-  * Votre Nationalité  
-  * Votre Date de naissance  
-  * Votre lieu de naissance  
-  * Votre Téléphone  
-  * Votre Email  
-  * Votre Profession  
-  * Votre Statut professionnel  
-  * Votre Document d’identité  
-  * Votre Justificatif de domicile de moins de 3 mois  
-  * Votre Avis d’imposition  
-  * Votre Fiche de paie  
-  * Votre Attestation d’indemnité de chômage ou de retraite  
-  * Votre Visa VISALE (prénom, nom et montant de garantie)  
-  * Votre Carte d’identité du représentant légal si le locataire est mineur
-
-#### **Qui est destinataire de ces données ?**
-
-La gestion des réservations est assurée par l’**Association d’Entraide Universitaire (AEU)**, avec le soutien de ses partenaires techniques pour garantir la fiabilité et la disponibilité du service :
-
-* **IRIGA-NETWORKS** (fournisseur de la solution WEASYLOC, logiciel en ligne utilisé pour réaliser ce traitement)  
-* **SERVICES ET INFRASTRUCTURE, SARL**, (prestataire de maintenance des serveurs) situé 241 AVENUE CLÉMENT ADER, 59118 WAMBRECHIES
-
-#### **Combien de temps gardons-nous ces informations ?**
-
-Lorsque votre demande de location est refusée, les informations que vous avez fournies pour instruire votre demande sont conservées jusqu’à 3 mois en base active à compter du refus communiqué d’octroi du droit à la prise du bail, puis elles sont ensuite supprimées.
-
-Lorsque votre demande de location est acceptée, les informations que vous avez fournies pour instruire votre demande sont conservées durant toute la durée du bail en base active, puis pendant une durée de 3 ans à compter de la fin de ce bail.
-
-#### **Vos données sont-elles envoyées hors d’Europe ?**
-
-Ces informations ne font pas l’objet d’un transfert de données hors Union européenne.
-
-#### 1.2.3 Étude de demandes de réduction de préavis de baux en cours
-
-Dans le cadre de nos Services, nous examinons les demandes de réduction du préavis liées aux baux en cours lorsque nous en recevons. La demande se fait sur l’Espace Locataire. 
-
-#### **Pourquoi utilisons-nous vos données pour ce service ?**
-
-Ce traitement est nécessaire pour :
-
-* Étudier et analyser votre demande de réduction de préavis,  
-* Vérifier si les conditions pour une réduction de préavis sont remplies (par exemple, raisons médicales, académiques ou professionnelles),  
-* Vous fournir une réponse adaptée et en conformité avec les règles en vigueur.
-
-#### **Les informations utilisées**
-
-Pour traiter votre demande, nous collectons et utilisons uniquement les informations nécessaires, notamment :
-
-* Vos prénom et nom,  
-* Votre adresse e-mail et numéro de locataire,  
-* Les informations relatives à votre bail (adresse du logement, date de début et de fin de bail, durée du préavis en cours),  
-* Les pièces justificatives que vous fournissez (par exemple, certificats médicaux ou attestations).
-
-#### **Qui gère ce traitement ?**
-
-L’étude des demandes est réalisée par l’**Association d’Entraide Universitaire (AEU)**. Vos données peuvent également être traitées par nos partenaires techniques pour garantir le bon fonctionnement de la plateforme de gestion des baux :
-
-* **IRIGA-NETWORKS** (fournisseur de la solution WEASYLOC, logiciel en ligne utilisé pour réaliser ce traitement)  
-* **SERVICES ET INFRASTRUCTURE, SARL**, (prestataire de maintenance des serveurs) situé 241 AVENUE CLÉMENT ADER, 59118 WAMBRECHIES
-
-#### **Combien de temps gardons-nous ces informations ?**
-
-Les données liées à vos demandes de réduction de préavis sont conservées :
-
-1. **Pendant le traitement de votre demande** : Ces informations sont nécessaires pour analyser et répondre à votre requête.  
-2. **Après la clôture de votre demande** : les données justificatives sont supprimées, seul le statut (accepté ou refusé) est conservé pendant 3 ans en archivage légal.
-
-#### **Vos données sont-elles envoyées hors d’Europe ?**
-
-Ces informations ne font l’objet d’aucun transfert hors Union Européenne.
+**Transfert hors UE** : Aucun
 
 ### 1.3. Gestion des commandes en click and collect au service restauration
 
-#### 1.3.1 Collecte en ligne des commandes Click and Collect
+#### 1.3.1. Collecte en ligne des commandes Click and Collect
 
-Pour vous permettre de commander et de récupérer vos produits rapidement et facilement, nous collectons en ligne les informations nécessaires à la gestion de vos commandes via notre service de Click and Collect mis à disposition au moyen du logiciel en ligne Moneweb. Pour accomplir des commandes, il est nécessaire d’étendre votre Compte Utilisateur à Moneweb afin de disposer d’un espace individuel de réservation et de paiement des commandes. Vous disposez donc d’un **Compte Utilisateur Moneweb**, créé à partir des informations de votre Compte Utilisateur dès la création de ce-dernier lorsque vous avez consenti au préalable à la création de celui-ci en vu de permettre l’envoi de lettres d’information sur les actualités des services proposés par All. Voici les détails de ce traitement :
+**Informations collectées** : Lieu de retrait, date/heure de retrait, contenu de la commande, montant, numéro de réservation
 
-##### Pourquoi collectons-nous ces informations ?
+**Finalité** : Gestion des commandes en ligne, préparation pour retrait, information sur l'état de commande, suivi des achats. Nécessite un Compte Utilisateur Moneweb (créé lors de l'inscription avec consentement pour lettres d'information).
 
-La collecte de vos informations est indispensable pour :
+**Prestataires** : NEOWEB, Infomaniak Network SA (authentification), JES Labs SA (Moneweb), Le Casier Français SARL (distribution)
 
-* Gérer vos commandes en ligne et préparer vos produits pour le retrait,  
-* Vous informer sur l’état de votre commande (confirmation, disponibilité pour le retrait),  
-* Assurer un suivi de vos achats.
+**Conservation** : Depuis chaque commande jusqu'à suppression du Compte Utilisateur Moneweb. Conservation prolongée pour obligations comptables/fiscales si nécessaire.
 
-##### Les informations collectées
-
-Dans le cadre du Click and Collect, nous collectons et utilisons les données suivantes :
-
-* Votre lieu de retrait  
-* Votre date heure de retrait  
-* Votre contenu de la commande  
-* Votre montant de la commande  
-* Votre numéro de réservation
-
-##### Qui gère ce traitement ?
-
-La gestion des commandes Click and Collect est assurée par l’Association d’Entraide Universitaire (AEU), avec l’appui de nos prestataires pour garantir le bon fonctionnement technique du service :
-
-* **NEOWEB** (maintenance et développement informatique du système d’authentification déléguée), situé au 165 avenue de Bretagne, 59000 Lille, France,  
-* **Infomaniak Network SA** (hébergement des données du système d’authentification), situé au 25 rue Eugène-Marziano, 1227 Genève, Suisse.  
-* **JES Labs, SA**, (éditeur de la solution en ligne Moneweb, permettant de réserver et de procéder au paiement des commandes), situé 5, rue Guglielmo Marconi F-44800 SAINT-HERBLAIN  
-* **Le Casier Français, SARL**, (prestataire de distribution sur point de points de retrait des commandes), situé Zone Acti+, Rte de Vendeville Bâtiment 6, 59175 Templemars
-
-##### Combien de temps gardons-nous ces informations ?
-
-Les données liées à vos commandes sont conservées depuis l’accomplissement de chaque commande, jusqu’à la suppression de votre Compte Utilisateur Moneweb.   
-Dans le cadre de la gestion des opérations comptables liées aux commandes, qui constitue un autre traitement, la conservation nécessaire pour répondre aux obligations comptables et fiscales étend également ce délai de conservation. Pour en savoir plus, vous pouvez consulter les informations liées à ce traitement.
-
-##### Vos données sont-elles envoyées hors d’Europe ?
-
-Certaines données liées à l’authentification peuvent être hébergées en **Suisse** par notre prestataire **Infomaniak Network SA**. La Suisse est reconnue par l’Union européenne comme offrant un niveau de protection des données équivalent. Des accords contractuels spécifiques garantissent également la confidentialité et la sécurité de vos informations
+**Transfert hors UE** : Suisse (Infomaniak Network SA - authentification)
 
 ### 1.4. Gestion des demandes de devis pour le service traiteur
 
 #### 1.4.1. Formulaire de collecte de demande de devis en ligne
 
-Pour vous permettre de demander un devis personnalisé de prestations de traiteur via le Site Internet, nous collectons les informations nécessaires à l’étude et à la réponse à votre demande. Voici les détails de ce traitement :
+**Informations collectées** :
+- **Événement** : Contexte, objectif, date, heures (début/fin, installation, retrait), lieu exact, coordonnées contact événement, informations complémentaires
+- **Prestation** : Nombre de convives, budget moyen par invité, nombre de tables, souhait végétarien 100%, type d'événement, régimes alimentaires, personnel de service, vaisselle/verrerie, type de nappe
+- **Commanditaire** : Nom, prénom, email, téléphone, structure, adhésion FUPL
+- **Facturation** : Nom entité, adresse complète, code analytique
 
-##### Pourquoi collectons-nous ces informations ?
+**Finalité** : Compréhension du besoin, devis personnalisé, suivi des demandes
 
-La collecte de ces informations est indispensable pour :
+**Prestataires** : NEOWEB, Infomaniak Network SA, SERVICES ET INFRASTRUCTURE SARL
 
-* Comprendre votre besoin et préparer une réponse adaptée,  
-* Vous transmettre un devis personnalisé en lien avec votre demande,  
-* Assurer un suivi de vos demandes de prestations de traiteur et faciliter les échanges.
+**Conservation** : Pendant le traitement. Si devis accepté : jusqu'à accomplissement de la prestation, puis conservation pour besoins comptables/administratifs. Si devis non accepté : suppression de la base active.
 
-##### Les informations collectées
-
-Lorsque vous remplissez une demande de devis en ligne, nous collectons et utilisons les données suivantes :
-
-*  Contexte et objectif de l’événement,  
-*  Date de la prestation,  
-*  Heure de début et fin d’événement,  
-*  heure de disponibilité du lieu pour installation,  
-*  heure de disponibilité pour le retrait,  
-*  lieu exact de la prestation,  
-*  coordonnées de la personne à contacter lors de l’événement,  
-*  champs libre informations complémentaires,  
-*  Nombre de convives,  
-*  budget moyen par invité,  
-*  nombre de tables disponibles,  
-*  souhait du 100% végétarien,  
-*  Type d’événement,  
-*  Régime alimentaire spécifique (champ libre),  
-*  souhait de présence de personnel de service,  
-*  vaisselle et verrerie souhaitée,  
-*  type de nappe souhaité,  
-*  informations complémentaires (champ libre),  
-*  nom du contact commanditaire,  
-*  prénom du contact commanditaire,  
-*  email du contact commanditaire,  
-*  numéro de téléphone du contact  
-*  commanditaire,  
-*  nom de la structure du commanditaire,  
-*  état d’adhésion en tant que membre à la FUPL du commanditaire,  
-*  nom de l’entité à facturer,  
-*  l’adresse de l’entité à facturer,  
-*  le code postal de l’entité à facturer,  
-*  ville de l’adresse de l’entité à facturer,  
-*  le pays de l’entité à facturer, les informations complémentaires,  
-*  code analytique de l’entité à facture.
-
-##### Qui gère ce traitement ?
-
-La gestion des demandes de devis est assurée par l’**Association d’Entraide Universitaire (AEU)**. Nous collaborons avec nos partenaires techniques pour garantir le bon fonctionnement du formulaire en ligne :
-
-* **NEOWEB** (maintenance et développement informatique du Site internet), situé au 165 avenue de Bretagne, 59000 Lille, France,  
-* **Infomaniak Network SA** (hébergement des données du Site internet), situé au 25 rue Eugène-Marziano, 1227 Genève, Suisse.  
-* **SERVICES ET INFRASTRUCTURE, SARL**, (prestataire de maintenance des serveurs des logiciels utilisés par le service traiteur) situé 241 AVENUE CLÉMENT ADER, 59118 WAMBRECHIES
-
-##### Combien de temps gardons-nous ces informations ?
-
-Les données liées à votre demande de devis sont conservées pendant le traitement de votre demande. Si votre demande fait l’objet d’un devis accepté, alors les informations sont conservées jusqu’à l’accomplissement de la prestation. Si la demande ne fait pas l’objet d’un tel devis accepté, alors ces informations sont supprimées de la base active.  
-Après l’accomplissement des prestations, les informations sont conservées pour les besoins des traitements mis en œuvre pour l’accomplissement des formalités comptables et administratives. Pour en savoir plus, veuillez vous référer à ces traitements dans la présente Politique.
-
-##### Vos données sont-elles envoyées hors d’Europe ?
-
-Certaines informations peuvent être hébergées en Suisse par notre prestataire **Infomaniak Network SA**. La Suisse est reconnue par l’Union européenne comme offrant un niveau de protection des données équivalent. Des accords contractuels spécifiques garantissent la sécurité et la confidentialité de vos informations.
+**Transfert hors UE** : Suisse (Infomaniak Network SA)
 
 ### 1.5. Gestion des paiements et moyens de paiement des Utilisateurs 
 
 #### 1.5.1. Rechargement de la Carte All via Moneweb avec paiement par carte bancaire 
 
-Pour vous permettre de recharger votre Carte All en ligne de manière rapide et sécurisée, nous proposons les fonctionnalités nécessaires à cet effet au moyen du logiciel en ligne Moneweb. Voici les détails de ce traitement :
+**Informations collectées** : Numéro CB, date de validité CB, cryptogramme visuel, montant transaction, numéro de contrat, dates versements, montant crédité, statut opération
 
-##### Pourquoi mettre en oeuvre ce traitement
+**Finalité** : Utilisation de la Carte All via Moneweb, exécution du paiement par CB, sécurité et traçabilité des transactions
 
-La collecte de ces informations est indispensable pour :
+**Prestataires** : JES Labs SA (Moneweb), Worldline (paiement)
 
-* Permettre l’utilisation de la Carte All via la plateforme Moneweb,  
-* Assurer la bonne exécution de votre paiement par carte bancaire,  
-* Garantir la sécurité et la traçabilité des transactions.
+**Conservation** : 
+- Informations CB : pas de conservation au-delà de la transaction
+- Statut et montant crédité : jusqu'à suppression du Compte Utilisateur Moneweb, puis conservation si nécessaire pour obligations comptables/administratives
 
-##### Les informations collectées
-
-Lors du chargement de crédits sur votre Carte All par carte bancaire, nous collectons et utilisons les données suivantes :
-
-* Votre Numéro de CB,  
-* Votre date de validité de CB,  
-* Votre cryptogramme visuel CB,  
-* Votre Montant de la transaction,  
-* Votre numéro de contrat, dates des versements  
-* Montant crédité  
-* Statut de l’opération
-
-##### Qui gère ce traitement ?
-
-La gestion des rechargements est assurée par l’**Association d’Entraide Universitaire (AEU)**. Nous collaborons avec nos partenaires pour garantir la sécurité des paiements et le bon fonctionnement du service :
-
-* **JES Labs, SA**, (éditeur de la solution en ligne Moneweb, permettant de créditer votre Carte All avec un paiement par carte bancaire), située 5, rue Guglielmo Marconi F-44800 SAINT-HERBLAIN  
-* **Worldline**, (solution de paiement en ligne intégrée et utilisée par Moneweb), située Tour Voltaire, 1 Place des Degrés, CS 81162, 92059 Paris la Défense Cedex
-
-##### Combien de temps gardons-nous ces informations ?
-
-Les informations de CB ne sont pas conservées au-delà de la réalisation de la transaction.
-
-Les informations du statut de l’opération et du montant crédité sont conservées jusqu’à suppression du Compte Utilisateur Moneweb, et au-delà si ces informations sont nécessaires à la réalisation d’un traitement requis pour l’accomplissement des formalités comptables et administratives s’imposant légalement à l’AEU. 
-
-##### Vos données sont-elles envoyées hors d’Europe ?
-
-JES Labs recourt aux services de Worldline pour gérer les paiements par carte bancaire. Worldline indique pouvoir procéder à des transferts hors Union européenne des informations de paiement, tout en garantissant la mise en œuvre de garanties appropriées. 
+**Transfert hors UE** : Worldline peut transférer hors UE avec garanties appropriées
 
 #### 1.5.2. Achat de la Carte All
 
-Vous pouvez effectuer des achats ou des souscriptions payantes proposés dans le cadre de notre offre en utilisant une carte spécifique et individuelle, vous étant attribuée par All. Cette carte est nommée “Carte All” et elle est distincte de votre carte étudiante..
+**Informations collectées** :
+- **Formulaire** : INE, nom, prénom, établissement, email, adresse, document bénéficiaire de bourses (si éligible), attestation CVAE (si étudiant), statut étudiant, rapprochement avec compte universitaire
+- **Paiement** : Numéro CB, date validité, cryptogramme, montant, statut opération
 
-Pour vous permettre d’acheter une Carte All en ligne de manière simple et sécurisée, nous collectons et traitons les informations nécessaires à l’achat et au paiement. Voici les détails de ce traitement :
+**Finalité** : Traitement de commande et attribution Carte All, exécution paiement via Sogecommerce, sécurité et traçabilité
 
-##### Pourquoi collectons-nous ces informations ?
+**Prestataires** : Sogecommerce (paiement), Infomaniak Network SA, NEOWEB
 
-La collecte de ces informations est indispensable pour :
+**Conservation** :
+- **Formulaire** : pendant toute la durée de validité de la Carte All (jusqu'à 3 ans sans renouvellement)
+- **CB** : durée nécessaire à la transaction, puis certaines données conservées pour obligations légales/administratives
 
-* Traiter votre commande et vous attribuer une Carte All,  
-* Assurer la bonne exécution de votre paiement en ligne via la plateforme Sogecommerce,  
-* Garantir la sécurité et la traçabilité des transactions effectuées.
-
-##### Les informations collectées
-
-Lors de l’achat de la Carte All, nous collectons et utilisons les données suivantes :
-
-* dans le cadre du formulaire de collecte des informations nécessaires à la création del a carte :  
-  * Votre INE  
-  * Votre Nom  
-  * Votre Prénom  
-  * Votre Établissement  
-  * Votre Adresse mail  
-  * Votre Adresse  
-  * Votre Document bénéficiaire de bourses (si vous êtes éligible à l’obtention d’une bourse)  
-  * Votre Attestation de la CVAE (si vous êtes étudiant)  
-  * Votre Statut étudiant ou non  
-  * Le rapprochement par correspondance avec votre compte universitaire au sein d’un établissement de la Fédération Universitaire Catholique de Lille  
-* dans le cadre la réalisation de la réalisation de l’opération de paiement en ligne :  
-  * Votre Numéro de CB,  
-  * Votre date de validité de CB,  
-  * Votre cryptogramme visuel CB,  
-  * Votre Montant de la transaction,  
-  * Statut de l’opération
-
-##### Qui gère ce traitement ?
-
-L’achat et la gestion des paiements liés à la Carte All sont administrés par l’**Association d’Entraide Universitaire (AEU)**. Nous collaborons avec des partenaires techniques et financiers pour assurer la sécurité et le bon fonctionnement du service :
-
-* **Sogecommerce** (solution de paiement en ligne sécurisée),  
-* **Infomaniak Network SA** (hébergement des données), situé au 25 rue Eugène-Marziano, 1227 Genève, Suisse.  
-* **NEOWEB** (développement et maintenance informatique du Site internet) : 165 avenue de Bretagne, 59000 Lille, France.
-
-##### Combien de temps gardons-nous ces informations ?
-
-Les données liées à l’achat de la Carte All sont conservées :
-
-- en qui concerne les informations du formulaire de collecte :   
-  - pendant toute la durée de validité de la Carte All, jusqu’à sa suppression définitive intervenant à l’issue d’un délai de validité de 3 ans, en l’absence de renouvellement.  
-- en qui concerne les informations de la carte bancaire utilisée pour procéder au paiement du montant nécessaire à l’achat de la Carte All :   
-1. **Pendant la durée nécessaire à la transaction** : Les informations sont utilisées pour traiter et sécuriser votre commande et votre paiement.  
-2. **Au-delà de la transaction** : Certaines données (comme les justificatifs d’achat ou les informations comptables) peuvent être conservées pour des obligations légales ou administratives avant d’être supprimées ou anonymisées.
-
-##### Vos données sont-elles envoyées hors d’Europe ?
-
-Certaines informations peuvent être hébergées en Suisse par **Infomaniak Network SA**, un prestataire reconnu par l’Union européenne comme garantissant un niveau de protection des données équivalent. 
+**Transfert hors UE** : Suisse (Infomaniak Network SA)
 
 #### 1.5.3. Gestion du Profil du Compte Utilisateur Moneweb
 
-La solution en ligne Moneweb vous permet de visualiser et modifier les informations relatives à votre Compte Utilisateur Moneweb. Voici les détails de ce traitement:
+**Informations collectées** : Identifiant compte Moneweb, email, langue interface, préférences notifications (alertes solde, rechargement, impression tickets), configuration notifications mobile, appareils connectés (marque, modèle, date enregistrement), préférence rechargement automatique
 
-#### **Pourquoi gérons-nous ces informations ?**
+**Finalité** : Adaptation fonctionnalités Moneweb, configuration notifications, modification informations, expérience sécurisée mobile
 
-La gestion de votre profil est nécessaire pour :
+**Prestataires** : JES Labs SA
 
-* Adapter les fonctionnalités de Moneweb à vos préférences,  
-* Vous permettre de configurer et de gérer vos notifications,  
-* Modifier des informations vous concernant et qui seraient erronées,  
-* Assurer une expérience fluide et sécurisée, notamment sur les appareils mobiles connectés à Moneweb.
+**Conservation** : Tant que le compte est actif, puis suppression après période nécessaire pour obligations légales/comptables
 
-#### **Les informations collectées**
+**Transfert hors UE** : Aucun (Espace économique européen)
 
-Dans le cadre de la gestion de votre profil, nous collectons et utilisons les données suivantes :
+#### 1.5.4. Création d'un Compte Utilisateur Moneweb
 
-* **Identifiant du compte utilisateur Moneweb**,  
-* **Adresse e-mail**,  
-* **Langue** sélectionnée pour l’interface,  
-* **Préférences de notification**, notamment :  
-  * Alertes en cas de dépassement de solde,  
-  * Notifications pour un nouveau rechargement,  
-  * Préférences pour l’impression des tickets.  
-* **Configuration des notifications pour l’application Moneweb mobile**,  
-* **Appareils de connexion utilisés avec Moneweb mobile** (marque, modèle, date d’enregistrement),  
-* **Préférence pour le rechargement automatique** (si activée).
+**Informations collectées** : Prénom, nom, email, mot de passe sécurisé (chiffré), consentement Conditions générales d'utilisation
 
-#### **Qui gère ce traitement ?**
+**Finalité** : Identification sécurisée sur Moneweb, accès aux fonctionnalités complètes, envoi lettres d'information si consenti
 
-La gestion des profils utilisateurs Moneweb est réalisée par l’**Association d’Entraide Universitaire (AEU)**, avec l’assistance de ses partenaires techniques :
+**Mise en œuvre** : Lors de l'inscription administrative en tant qu'étudiant ou lors de la création du Compte Utilisateur sur le Site web
 
-* **JES Labs, SA**, (éditeur de la solution en ligne Moneweb, permettant de créditer votre Carte All avec un paiement par carte bancaire), située 5, rue Guglielmo Marconi F-44800 SAINT-HERBLAIN
+**Prestataires** : NEOWEB, JES Labs SA, Infomaniak Network SA
 
-#### **Combien de temps gardons-nous ces informations ?**
+**Conservation** : Tant que le Compte Utilisateur Moneweb est actif, puis suppression après période nécessaire pour obligations légales/comptables
 
-Les données liées à votre profil Moneweb sont conservées :
+**Transfert hors UE** : Suisse (Infomaniak Network SA)
 
-1. **Tant que votre compte est actif** : Les informations sont nécessaires pour garantir une expérience utilisateur optimale.  
-2. **Après la désactivation ou la suppression de votre compte** : Les données sont supprimées à l’issue de la période de conservation nécessaires pour répondre aux obligations légales et comptables de l’AEU
+#### 1.5.6. Consultation des historiques de paiement et transactions sur Moneweb
 
-#### **Vos données sont-elles envoyées hors d’Europe ?**
+**Informations collectées** :
+- **Reçus** : Numéro commande, point de vente, numéro fiscal, numéro ticket caisse, nombre de couverts, nom/prénom titulaire, statut titulaire (étudiant/personnel/passager), numéro badge, ancien/nouveau solde, liste produits (quantité, prix unitaire, TTC), TVA, total ticket, date/heure impression, numéro impression
+- **Historique** : Date/heure édition ticket, ancien solde, total commande, nouveau solde
 
-Dans le cadre de ce traitement, vos données ne sont pas transférées en dehors de l’Espace économique européen.
+**Finalité** : Accès transparent aux transactions passées, traçabilité paiements/achats, vérification/rectification
 
-#### 1.5.4. Création d’un Compte Utilisateur Moneweb
+**Prestataires** : JES Labs SA
 
-La création d’un Compte Utilisateur Moneweb s’effectue de deux façons possibles : 
+**Conservation** : Pendant utilisation active du Compte Utilisateur Moneweb, puis archivage limité pour fins légales/administratives
 
-- lors de votre inscription administrative en tant qu’étudiant au sein d’un établissement de l’Université Catholique de Lille  
-- lorsque vous créez un Compte Utilisateur sur le Site web.
-
-#### **Pourquoi mettons nous en oeuvre ce traitement ?**
-
-La création de votre Compte Utilisateur Moneweb est indispensable pour :
-
-* Vous identifier de manière sécurisée sur la plateforme Moneweb,  
-* Vous permettre d’accéder à toutes les fonctionnalités de la plateforme Moneweb et qui permettent de bénéficier de l’intégralité de l’offre de Services de l’AEU,  
-* Vous faire parvenir les lettres d’information par voie de courriel, si vous y avez consenti.
-
-#### **Les informations collectées**
-
-Lors de la création de votre compte, nous collectons les données suivantes :
-
-* **Prénom**,  
-* **Nom**,  
-* **Adresse e-mail**,  
-* **Mot de passe sécurisé** (chiffré et illisible par nos équipes),  
-* **Consentement à l’acceptation des Conditions générales d’utilisation**, qui est requis pour finaliser l’inscription.
-
-#### **Qui gère ce traitement ?**
-
-La création et la gestion des Comptes Utilisateurs Moneweb sont administrées par l’**Association d’Entraide Universitaire (AEU)**. Nous collaborons avec des partenaires techniques pour garantir la sécurité et le bon fonctionnement de la plateforme :
-
-* **NEOWEB** (maintenance et développement informatique), situé au 165 avenue de Bretagne, 59000 Lille, France,  
-* **JES Labs, SA**, (éditeur de la solution en ligne Moneweb, permettant de créditer votre Carte All avec un paiement par carte bancaire), située 5, rue Guglielmo Marconi F-44800 SAINT-HERBLAIN  
-* **Infomaniak Network SA** (hébergement du site internet), situé au 25 rue Eugène-Marziano, 1227 Genève, Suisse.
-
-#### **Combien de temps gardons-nous ces informations ?**
-
-Les données liées à votre compte Moneweb sont conservées :
-
-1. **Tant que votre Compte Utilisateur Moneweb est actif** : Les informations sont nécessaires pour vous identifier et garantir l’accès à nos services.  
-2. **Après la suppression de votre compte** : Les données sont supprimées après l’écoulement d’un délai nécessaire pour que l’AEU puisse répondre à ses obligations légales et comptables..
-
-#### **Vos données sont-elles envoyées hors d’Europe ?**
-
-Certaines informations peuvent être hébergées en Suisse par notre prestataire **Infomaniak Network SA**. La Suisse est reconnue par l’Union européenne comme offrant un niveau de protection des données équivalent. Des accords contractuels spécifiques garantissent également la sécurité et la confidentialité de vos informations.
-
-#### 1.5.6. Consultation des historiques de paiement et des transactions sur Moneweb
-
-Pour vous permettre de consulter vos historiques de paiement et de transactions réalisés via la plateforme Moneweb, nous collectons et traitons les données nécessaires à la gestion et à l’affichage de vos reçus et historiques. Voici les détails de ce traitement :
-
-#### **Pourquoi collectons-nous ces informations ?**
-
-La collecte et la gestion des historiques de paiement ont pour objectifs :
-
-* De vous fournir un accès transparent et détaillé à vos transactions passées,  
-* De permettre la traçabilité des paiements et des achats,  
-* De répondre à vos éventuelles demandes de vérification ou de rectification.
-
-#### **Les informations collectées**
-
-Pour afficher vos historiques et reçus, nous collectons et utilisons les données suivantes :
-
-**Données sur les reçus :**
-
-* Numéro de commande,  
-* Point de vente,  
-* Numéro fiscal,  
-* Numéro de ticket de caisse,  
-* Nombre de couverts (le cas échéant),  
-* Nom et prénom du titulaire du compte Moneweb,  
-* Statut du titulaire (étudiant, personnel, passager — personne sans numéro INE),  
-* Numéro du badge (Carte All ou carte étudiante),  
-* Ancien solde du compte,  
-* Liste des produits achetés,  
-* Quantité des produits,  
-* Prix unitaire,  
-* Prix TTC,  
-* Total du prix du ticket,  
-* TVA appliquée,  
-* Nouveau solde du compte,  
-* Date et heure d’impression du ticket,  
-* Numéro d’impression du ticket.
-
-**Données sur l’historique des tickets :**
-
-* Date et heure d’édition du ticket,  
-* Ancien solde du compte,  
-* Total de la commande,  
-* Nouveau solde du compte.
-
-#### **Qui gère ce traitement ?**
-
-La gestion et l’affichage des historiques de paiement sont assurés par l’**Association d’Entraide Universitaire (AEU)** avec le soutien de partenaires techniques :
-
-* **JES Labs, SA**, (éditeur de la solution en ligne Moneweb, permettant de créditer votre Carte All avec un paiement par carte bancaire), située 5, rue Guglielmo Marconi F-44800 SAINT-HERBLAIN
-
-#### **Combien de temps gardons-nous ces informations ?**
-
-Les données liées à vos historiques de paiement et transactions sont conservées :
-
-1. **Pendant la durée de l’utilisation active de votre Compte Utilisateur Moneweb**, pour garantir l’accès à vos historiques.  
-2. **Après la désactivation ou suppression de votre Compte Utilisateur Moneweb** : Certaines informations peuvent être archivées pour une période limitée à des fins légales ou administratives avant d’être supprimées
-
-#### **Vos données sont-elles envoyées hors d’Europe ?**
-
-Ces informations ne font pas l’objet d’un transfert hors Union européenne dans le cadre de ce traitement.
+**Transfert hors UE** : Aucun
 
 #### 1.5.7. Association Comptes Utilisateurs All et Comptes Utilisateurs Moneweb
 
-Lorsque vous disposez d’un Compte Utilisateur Moneweb, suite à votre inscription administrative en tant qu’étudiant au sein d’un établissement de l’Université Catholique de Lille, vous êtes enjoint à créer un Compte Utilisateur All sur les Services accessibles sur le site web [https://all-lacatho.fr](https://all-lacatho.fr), et ce, au moyen de l’adresse email que vous avez utilisée pour procéder à votre inscription au sein de cet établissement.
+**Informations collectées** :
+- **Inscription établissement** : adresse email
+- **Création Compte Utilisateur All** : prénom, nom, email, mot de passe, statut confirmation
 
-#### **Pourquoi mettons nous en oeuvre ce traitement ?**
+**Finalité** : Corrélation entre Compte Moneweb (créé lors de l'inscription administrative) et Compte Utilisateur All, permettant bénéficier pleinement des services All. Nécessite création Compte Utilisateur All avec la même adresse email utilisée pour l'inscription.
 
-Cela permet à All d’effectuer une corrélation entre votre Compte Moneweb Utilisateur, créé suite à l’inscription au sein de l’établissement que vous fréquentez, et votre Compte Utilisateur All. Cette corrélation permet aux titulaires de Comptes Utilisateurs All de bénéficier pleinement des services de All qui leurs sont proposés.
+**Prestataires** : NEOWEB, JES Labs SA, Infomaniak Network SA
 
-#### **Les informations traitées à cet effet**
+**Conservation** : Jusqu'à suppression du Compte Utilisateur Moneweb
 
-Nous procédons au traitement des informations collectées lors de votre inscription au sein de l’établissement faisant partie de l’Université Catholique de Lille, à savoir: 
-
-* votre adresse email
-
-Et nous utilisons également les informations collectées lors de la création de votre Compte Utilisateur All, à savoir :
-
-* Prénom,  
-* Nom,  
-* Adresse email,  
-* Mot de passe,  
-* Statut de la confirmation de l’inscription
-
-**Qui gère la mise en oeuvre de ce traitement ?**
-
-L' association des Comptes Utilisateurs All et des Comptes Utilisateurs Moneweb est orchestrée par l’**Association d’Entraide Universitaire (AEU)**. Nous collaborons avec des partenaires techniques pour garantir la sécurité et le bon fonctionnement de la plateforme :
-
-* **NEOWEB** (maintenance et développement informatique), situé au 165 avenue de Bretagne, 59000 Lille, France,  
-* **JES Labs, SA**, (éditeur de la solution en ligne Moneweb, permettant de créditer votre Carte All avec un paiement par carte bancaire), située 5, rue Guglielmo Marconi F-44800 SAINT-HERBLAIN  
-* **Infomaniak Network SA** (hébergement du site internet), situé au 25 rue Eugène-Marziano, 1227 Genève, Suisse.
-
-#### **Combien de temps gardons-nous ces informations ?**
-
-Les données utilisées pour effectuer cette corrélation sont conservées jusqu’à la suppression du Compte Utilisateur Moneweb ainsi créé. 
-
-#### **Vos données sont-elles envoyées hors d’Europe ?**
-
-Ces informations font l’objet d’un traitement de corrélation opéré sur les serveurs fournis par Infomaniak, situés en Suisse. La Suisse est reconnue par l’Union européenne comme offrant un niveau de protection des données équivalent. Des accords contractuels spécifiques garantissent également la sécurité et la confidentialité de vos informations.
+**Transfert hors UE** : Suisse (Infomaniak Network SA)
 
 #### 1.5.8. Gestion des opérations réalisées avec le portefeuille Moneweb
 
-Afin de permettre le fonctionnement du portefeuille numérique Moneweb et d'assurer le suivi précis des opérations effectuées avec votre carte All ou compte Moneweb, nous mettons en œuvre un traitement dédié à la gestion des données transactionnelles liées à l’utilisation quotidienne du service.
+**Informations collectées** : Périodicité (si applicable), date/heure opération, activité (lieu/service d'exécution), ancien solde, total opération, nouveau solde
 
-##### Pourquoi mettons-nous en œuvre ce traitement ?
+**Finalité** : Fonctionnement portefeuille Moneweb, suivi temps réel des opérations, traçabilité financière, historique structuré
 
-Ce traitement a pour objectifs :
+**Prestataires** : JES Labs SA
 
-* De garantir le bon fonctionnement du portefeuille Moneweb et le suivi en temps réel des opérations,
+**Conservation** : 12 mois à compter de l'opération, puis archivage temporaire pour justification légale/administrative/comptable avant suppression
 
-* De permettre la traçabilité financière des usages de votre compte,
+**Transfert hors UE** : Aucun (Espace économique européen)
 
-* De vous fournir un historique clair et structuré de vos opérations, accessible depuis votre espace personnel.
+#### 1.5.9. Gestion des paiements pour achat de goodies et abonnement salle de sport
 
-##### Les informations collectées
+**Informations collectées** : Informations moyen de paiement (numéro CB), montant, nom/prénom titulaire, libellé opération, identifiant unique opération
 
-Lors de chaque opération effectuée avec votre portefeuille Moneweb (paiement, rechargement, etc.), les données suivantes sont collectées et enregistrées :
+**Finalité** : Réalisation et sécurisation paiements en ligne, traçabilité et confirmation, gestion administrative inscriptions/commandes
 
-* **Périodicité** (le cas échéant, pour les produits ou services récurrents),
+**Note** : Aucune donnée complète de CB conservée par l'AEU. Informations sensibles traitées conformément normes PCI DSS par le prestataire de paiement.
 
-* **Date et heure de réalisation de l’opération**,
+**Prestataires** : SOGECOMMERCE (paiement), NEOWEB (intégration), Infomaniak Network SA
 
-* **Activité de l’opération** (correspondant au lieu ou service d’exécution, ex. : restaurant universitaire, distributeur, caisse, etc.),
+**Conservation** : Pendant durée nécessaire à gestion commande, vérification paiement, émission justificatif, puis archivage pour fins comptables/légales (délais légaux en vigueur)
 
-* **Ancien solde du compte** avant l’opération,
+**Transfert hors UE** : Suisse (Infomaniak Network SA). Données bancaires traitées exclusivement dans EEE par SOGECOMMERCE.
 
-* **Total de l’opération**,
+### 1.6. Gestion des demandes utilisateurs soumises par formulaire
 
-* **Nouveau solde du compte** après l’opération.
+#### 1.6.1. Traitement des demandes reçues par les formulaires du site
 
-Ces données permettent de garantir l’exactitude des mouvements financiers liés à votre compte Moneweb.
+**Informations collectées** : Service interne concerné, nom, prénom, email, téléphone (optionnel), éléments complémentaires dans message, consentement au traitement
 
-##### Qui gère ce traitement ?
+**Finalité** : Transmission demande au bon service interne, identification et réponse, suivi structuré
 
-Le traitement est mis en œuvre par l’**Association d’Entraide Universitaire (AEU)**, avec le concours de partenaires techniques :
+**Prestataires** : NEOWEB, Infomaniak Network SA
 
-* **JES Labs, SA**, éditeur de la solution Moneweb, située au 5 rue Guglielmo Marconi, 44800 Saint-Herblain (France),
+**Conservation** : Temps nécessaire au traitement et réponse, puis suppression après traitement
 
-##### Combien de temps gardons-nous ces informations ?
-
-Les données relatives aux opérations Moneweb sont conservées :
-
-* **Pendant 12 mois à compter de la réalisation de l’opération**
-
-* **Puis archivées temporairement**, à des fins de justification légale, administrative ou comptable, avant leur suppression définitive.
-
-##### Vos données sont-elles envoyées hors d’Europe ?
-
-Non, ces données ne font pas l’objet de transfert hors de l’espace économique européen.
-
-#### 1.5.9. Gestion des paiements pour les opérations d’achat de goodies et d’abonnement à la salle de sport 
-
-Afin de permettre l’achat en ligne de produits dérivés (goodies) et d’abonnements à la salle de sport proposés sur la plateforme All, un traitement des données de paiement est mis en œuvre via le module sécurisé SOGECOMMERCE.
-
-##### Pourquoi mettons-nous en œuvre ce traitement ?
-
-Ce traitement vise à :
-
-* Permettre la réalisation et la sécurisation des paiements en ligne,
-
-* Assurer la traçabilité et la confirmation des opérations de règlement effectuées par l’utilisateur,
-
-* Faciliter la gestion administrative des inscriptions à la salle de sport et des commandes de goodies.
-
-### **Les informations collectées**
-
-Dans le cadre de la transaction, les données suivantes sont collectées et traitées :
-
-* **Informations du moyen de paiement**, telles que le numéro de carte bancaire
-
-* **Montant de l’opération**,
-
-* **Nom et prénom du titulaire du moyen de paiement**,
-
-* **Libellé de l’opération** (ex. : achat de t-shirt, abonnement trimestriel, etc.),
-
-* **Identifiant unique de l’opération**.
-
-Aucune donnée complète de carte bancaire n’est conservée par l’AEU. L’ensemble des informations sensibles est traité conformément aux normes PCI DSS par le prestataire de paiement.
-
-### **Qui gère ce traitement ?**
-
-La gestion des paiements est assurée par l’**Association d’Entraide Universitaire (AEU)**, avec le soutien de partenaires techniques :
-
-* **SOGECOMMERCE** (solution de paiement de la Société Générale), en charge du traitement des transactions,
-
-* **NEOWEB**, pour l’intégration technique de la solution de paiement sur le site all-lacatho.fr,
-
-* **Infomaniak Network SA**, hébergeur du site, situé au 25 rue Eugène-Marziano, 1227 Genève, Suisse.
-
-### **Combien de temps gardons-nous ces informations ?**
-
-Les données relatives à l’opération (en dehors de celles du moyen de paiement qui ne sont pas conservées au delà de la durée nécessaire pour réaliser l’opération de paiement) sont :
-
-* **Conservées pendant la durée nécessaire à la gestion de la commande**, à la vérification du paiement et à l’émission d’un justificatif,
-
-* Puis **archivées à des fins comptables et légales** pour une durée n’excédant pas les délais légaux en vigueur.
-
-### **Vos données sont-elles envoyées hors d’Europe ?**
-
-Certaines données peuvent être hébergées en **Suisse** par Infomaniak Network SA, pays reconnu comme offrant un niveau de protection des données adéquat par l’Union européenne. Le traitement des données bancaires est, quant à lui, effectué exclusivement dans l’Espace économique européen (EEE) par **SOGECOMMERCE**, conformément à la réglementation applicable en matière de sécurité des paiements.
-
-### **1.6 Gestion des demandes utilisateurs soumises par formulaire**
-
-#### 1.6.1. Traitement des demandes reçues par le formulaires du site internet https://all-lacatho.fr
-
-Lorsque vous nous contactez via un formulaire en ligne, nous collectons les informations nécessaires pour traiter votre demande et y répondre efficacement. Voici les détails de ce traitement :
-
-#### **Pourquoi collectons-nous ces informations ?**
-
-Ce traitement est mis en œuvre pour :
-
-* Transmettre votre demande au bon service interne de l’Association d’Entraide Universitaire (AEU),  
-* Vous identifier et pouvoir vous répondre dans les meilleurs délais,  
-* Assurer un suivi clair et structuré de vos demandes.
-
-#### **Les informations collectées**
-
-Lorsque vous soumettez un formulaire de contact ou de demande, nous collectons les données suivantes :
-
-* Le **service interne concerné** par votre demande (ex. : logement, restauration, carte All…),  
-* **Nom** et **prénom**,  
-* **Adresse e-mail**,  
-* **Numéro de téléphone** (si renseigné),  
-* **Éléments complémentaires** que vous choisissez de nous transmettre dans le champ de message,  
-* Votre **consentement au traitement** de ces données (via une case à cocher obligatoire).
-
-#### **Qui gère ce traitement ?**
-
-La gestion des demandes est assurée par l’**Association d’Entraide Universitaire (AEU)**. Pour garantir le bon fonctionnement technique du formulaire, nous faisons appel à :
-
-* **NEOWEB** (maintenance et développement informatique), situé au 165 avenue de Bretagne, 59000 Lille, France,  
-* **Infomaniak Network SA** (hébergement des données), situé au 25 rue Eugène-Marziano, 1227 Genève, Suisse.
-
-#### **Combien de temps gardons-nous ces informations ?**
-
-Les données issues de vos demandes sont conservées :
-
-1. **Le temps nécessaire pour traiter et répondre à votre demande**,  
-2. **Puis supprimées après traitement de la demande**
-
-#### **Vos données sont-elles envoyées hors d’Europe ?**
-
-Certaines données peuvent être hébergées en Suisse par **Infomaniak Network SA**, un pays reconnu par l’Union européenne comme offrant un niveau de protection des données adéquat. Des accords spécifiques sont mis en place pour garantir la sécurité et la confidentialité de vos informations.
+**Transfert hors UE** : Suisse (Infomaniak Network SA)
 
 ### 1.7. Expérience utilisateur et amélioration du Site
 
-#### 1.7.1. Suivi analytique et mesure d’audience via Google Tag Manager
+#### 1.7.1. Suivi analytique et mesure d'audience via Google Tag Manager
 
-Afin d’optimiser l’expérience de navigation sur le site [**https://all-lacatho.fr**](https://all-lacatho.fr) et de mieux comprendre l’usage de ses fonctionnalités, nous mettons en œuvre un traitement de données à des fins de mesure d’audience et de performance via l’outil **Google Tag Manager**.
+**Informations collectées** : Adresse IP (anonymisée si activée), URL page visitée, type navigateur, système d'exploitation, durée session, chemin navigation (pages, clics, interactions). Recours à cookies détaillé section Cookies.
 
-##### Pourquoi mettons-nous en œuvre ce traitement ?
+**Finalité** : Analyse fréquentation et usage, identification améliorations ergonomie, suivi efficacité fonctionnalités, déploiement/ajustement tags selon comportements (avec consentement)
 
-Ce traitement poursuit plusieurs objectifs :
+**Prestataires** : Google Ireland Limited (Google Tag Manager/Analytics), NEOWEB, Infomaniak Network SA
 
-* Analyser la fréquentation et l’usage du site web (pages visitées, temps de navigation, taux de rebond, etc.),
+**Conservation** : 
+- Données anonymisées : jusqu'à 14 mois (standards Google Analytics)
+- Préférences consentement cookies : jusqu'à 13 mois (obligations CNIL)
 
-* Identifier les points d’amélioration dans l’ergonomie et la navigation,
+**Transfert hors UE** : Transferts possibles vers États-Unis/autres pays tiers par Google Ireland Limited, encadrés par clauses contractuelles types approuvées par Commission européenne. Modification préférences consentement possible via bandeau cookies (bas de page).
 
-* Suivre l’efficacité des fonctionnalités mises à disposition des utilisateurs,
+#### 1.7.2. Adaptation de l'affichage selon préférences d'accessibilité
 
-* Déployer ou ajuster certains tags (balises) selon les comportements observés, en conformité avec vos préférences de consentement.
+**Informations collectées** : Stockage local navigateur (clé `accessibility_state`) : `isContrast` (mode contraste élevé), `isDyslexic` (police adaptée dyslexie), `theme` (light/dark)
 
-##### Les informations collectées
+**Finalité** : Facilitation navigation utilisateurs troubles visuels/cognitifs, ajustement personnalisé interface, meilleure lisibilité, expérience inclusive
 
-Le suivi analytique via Google Tag Manager ne collecte pas directement des données personnelles, mais permet l’activation ou la désactivation de balises JavaScript (tags), dont certaines peuvent déclencher des outils tiers tels que **Google Analytics**, sous réserve de votre consentement.
+**Note** : Données stockées uniquement dans navigateur local, non transmises aux serveurs.
 
-Sont potentiellement traitées :
+**Prestataires** : NEOWEB (développement), Infomaniak Network SA (hébergement site - données non transmises)
 
-* L’adresse IP (sous forme anonymisée, si anonymisation activée),
+**Conservation** : Tant que l'utilisateur ne supprime pas manuellement. Réinitialisation possible avec suppression cache ou changement navigateur.
 
-* L’URL de la page visitée,
+**Transfert hors UE** : Aucun (données uniquement dans navigateur, jamais transmises)
 
-* Le type de navigateur,
-
-* Le système d’exploitation utilisé,
-
-* La durée de la session,
-
-* Le chemin de navigation (pages consultées, clics, interactions).
-Le recours à des cookies dans ce cadre est détaillée dans la section Cookies de la présente politique de confidentialité.
-
-##### Qui gère ce traitement ?
-
-La mise en œuvre du suivi analytique est assurée par l’**Association d’Entraide Universitaire (AEU)**, en collaboration avec ses partenaires techniques suivants :
-
-* **Google Ireland Limited**, Gordon House, Barrow Street, Dublin 4, Irlande, pour la gestion de Google Tag Manager et des tags associés (Google Analytics, etc.),
-
-* **NEOWEB**, pour le développement technique et l’intégration de l’outil sur le site,
-
-* **Infomaniak Network SA**, situé au 25 rue Eugène-Marziano, 1227 Genève, Suisse, pour l’hébergement du site.
-
-##### Combien de temps gardons-nous ces informations ?
-
-La durée de conservation dépend de la configuration des balises activées via Google Tag Manager, mais de manière générale :
-
-* Les données anonymisées de mesure d’audience sont conservées jusqu’à **14 mois** après leur collecte, conformément aux standards de Google Analytics,
-
-* Les préférences de consentement liées aux cookies sont conservées jusqu’à **13 mois**, selon les obligations CNIL.
-
-##### Vos données sont-elles envoyées hors d’Europe ?
-
-Oui, certains traitements peuvent impliquer un transfert hors Union européenne. Google Ireland Limited est susceptible de transférer les données vers les États-Unis ou d'autres pays tiers, dans le cadre de l’utilisation des outils Google. Ces transferts sont encadrés par des **clauses contractuelles types** approuvées par la Commission européenne, et Google s’engage à mettre en place des garanties supplémentaires pour assurer un niveau de protection adéquat.
-
-Vous pouvez à tout moment modifier vos préférences de consentement via le bandeau cookies prévu à cet effet, accessible depuis le bas de page du site.
-
-#### 1.7.2. Adaptation de l’affichage du site selon les préférences d’accessibilité
-
-Dans le cadre de notre engagement en faveur de l’accessibilité numérique, nous mettons en œuvre un traitement destiné à adapter l’affichage du site [**https://all-lacatho.fr**](https://all-lacatho.fr) aux besoins spécifiques de certains utilisateurs en situation de handicap. Ce traitement repose sur des paramètres enregistrés localement dans le navigateur de l’utilisateur, sans transfert au serveur.
-
-##### Pourquoi mettons-nous en œuvre ce traitement ?
-
-Ce traitement vise à :
-
-* Faciliter la navigation des utilisateurs présentant des troubles visuels ou cognitifs,
-
-* Permettre un ajustement personnalisé de l’interface en fonction des préférences d’accessibilité,
-
-* Offrir une meilleure lisibilité et une expérience utilisateur inclusive.
-
-##### Les informations collectées
-
-Les préférences d’accessibilité sont enregistrées localement dans le navigateur de l’utilisateur sous forme de stockage local (non-cookie), à travers la clé suivante :
-
-* **Nom du stockage local** : `accessibility_state`
-
-* **Données contenues** :
-
-  * `isContrast` : indique si le mode contraste élevé est activé (`true` ou `false`),
-
-  * `isDyslexic` : indique si la police adaptée aux personnes dyslexiques est activée (`true` ou `false`),
-
-  * `theme` : indique le thème d’affichage sélectionné (`"light"` ou `"dark"`).
-
-Ces données ne sont accessibles que par le navigateur local et ne sont ni envoyées ni partagées avec des serveurs ou des tiers.
-
-##### Qui gère ce traitement ?
-
-Le traitement est mis en œuvre par l’**Association d’Entraide Universitaire (AEU)**. Il repose sur des fonctionnalités développées et intégrées par :
-
-* **NEOWEB**, pour la gestion technique et l’implémentation des réglages d’accessibilité sur le site,
-
-* **Infomaniak Network SA**, pour l’hébergement du site, bien que les données liées à ce traitement ne soient pas transmises aux serveurs.
-
-##### Combien de temps gardons-nous ces informations ?
-
-Les préférences sont conservées **tant que l’utilisateur ne les supprime pas manuellement** via les paramètres de son navigateur. Elles peuvent également être réinitialisées automatiquement en cas de suppression du cache ou de changement de navigateur.
-
-##### Vos données sont-elles envoyées hors d’Europe ?
-
-Non. Les informations relatives à vos préférences d’accessibilité sont stockées **uniquement dans votre navigateur**, sur votre terminal. Elles ne font l’objet **d’aucune transmission, traitement ou conservation sur des serveurs externes** et ne quittent donc jamais l’Union européenne.
-
-### 1.8. Assistance à l’estimation des coûts liés à la vie étudiante à Lille
+### 1.8. Assistance à l'estimation des coûts liés à la vie étudiante à Lille
 
 #### 1.8.1. Simulation des coûts liés à la vie étudiante à Lille
 
-Nous mettons à disposition un outil de simulation pour vous aider à estimer les dépenses et les ressources que vous pourriez avoir durant vos études à Lille. Voici les détails du traitement des données utilisées dans ce cadre :
+**Informations collectées** : Frais scolarité annuels, loyer et charges, assurance habitation, abonnement téléphone/Internet, voiture (essence, assurance), transports communs, dépenses alimentaires, frais exceptionnels, loisirs, santé/mutuelle, aides perçues (CAF, bourse CROUS, bourse études sanitaires/sociales, ressources complémentaires)
 
-##### Pourquoi collectons-nous ces informations ?
+**Finalité** : Estimation personnalisée dépenses mensuelles/annuelles, synthèse budget prévisionnel, anticipation besoins financiers
 
-Ce traitement a pour objectif de :
+**Prestataires** : NEOWEB, Infomaniak Network SA
 
-* Vous fournir une **estimation personnalisée** de vos dépenses mensuelles ou annuelles liées à la vie étudiante,
+**Conservation** : Par défaut, aucune donnée personnelle conservée après simulation. Si transmission résultats ou création compte : conservation selon finalités associées.
 
-* Générer une **synthèse claire** de votre budget prévisionnel,
+**Transfert hors UE** : Suisse (Infomaniak Network SA)
 
-* Vous permettre de mieux anticiper vos besoins financiers.
-
-##### Les informations collectées
-
-Lorsque vous utilisez notre simulateur, vous pouvez être amené à renseigner tout ou partie des éléments suivants :
-
-* **Frais annuels de scolarité**,
-
-* **Loyer** et **charges liées au logement**,
-
-* **Assurance habitation**,
-
-* **Abonnement téléphonique** et **Internet**,
-
-* **Voiture** (essence, assurance),
-
-* **Transports en commun**,
-
-* **Dépenses alimentaires**,
-
-* **Frais exceptionnels**,
-
-* **Loisirs**,
-
-* **Dépenses de santé / mutuelle**,
-
-* **Aides perçues** :
-
-  * Revenus **CAF**,
-
-  * **Bourse CROUS**,
-
-  * **Bourse d’études sanitaires et sociales**,
-
-  * **Ressources complémentaires** (familiales, jobs étudiants, etc.).
-
-Ces données sont exclusivement utilisées dans le cadre de la simulation et ne sont pas conservées sauf si vous choisissez de les enregistrer ou de les transmettre dans le cadre d’une demande de contact ou de suivi.
-
-##### Qui gère ce traitement ?
-
-Ce service est mis en œuvre par l’**Association d’Entraide Universitaire (AEU)**, avec l’appui de ses prestataires techniques :
-
-* **NEOWEB** (maintenance et développement informatique), situé au 165 avenue de Bretagne, 59000 Lille, France,
-
-* **Infomaniak Network SA** (hébergement des données), situé au 25 rue Eugène-Marziano, 1227 Genève, Suisse.
-
-  #### **Combien de temps gardons-nous ces informations ?**
-
-Par défaut, **aucune donnée personnelle n’est conservée** à l’issue de la simulation. Si vous choisissez de transmettre les résultats ou de créer un compte, les données pourront être enregistrées selon les finalités associées (voir les traitements concernés dans cette politique).
-
-#### **Vos données sont-elles envoyées hors d’Europe ?**
-
-Les données peuvent être hébergées en Suisse par **Infomaniak Network SA**, pays reconnu par l’Union européenne comme offrant un niveau de protection des données adéquat. Des garanties contractuelles sont mises en place pour assurer la sécurité de vos informations.
-
-### **1.9. Prise de rendez-vous médicaux ou paramédicaux avec le service santé**
+### 1.9. Prise de rendez-vous médicaux ou paramédicaux avec le service santé
 
 #### 1.9.1. Prise de rendez-vous en ligne avec le CPSU
 
-Pour faciliter l’accès à des consultations de gynécologie ou de psychologie avec les professionnels du Centre Polyvalent de Santé Universitaire, l’AEU met à votre disposition un système de **prise de rendez-vous en ligne** via la plateforme **Maiia Agenda**, éditée par la société **CEGEDIM SANTÉ**. Voici les détails de ce traitement :
+**Informations collectées** :
+- **Identité** : nom, prénom, nom de naissance, sexe état civil
+- **Coordonnées** : téléphone mobile, email, adresse postale
+- **Données administratives** : date, lieu et ville naissance, numéro sécurité sociale
+- **Rendez-vous** : motif consultation, date/heure, lieu, praticien sélectionné
 
-##### **Pourquoi collectons-nous ces informations ?**
+**Finalité** : Accès simple et sécurisé à prise de rendez-vous médicaux/paramédicaux, organisation consultations, transmission informations praticien, suivi consultations dans dossier médical
 
-Ce traitement permet :
+**Prestataires** : CEGEDIM SANTÉ (plateforme Maiia Agenda)
 
-* De vous offrir un **accès simple et sécurisé à la prise de rendez-vous médicaux ou paramédicaux**,
+**Conservation** :
+- **Données prise de rendez-vous** : temps nécessaire à exécution, ne peuvent être conservées au-delà durée existence compte Maiia
+- **Motif consultation** (intégré dossier médical) : 20 ans à compter dernière consultation (réglementation données de santé)
 
-* D’organiser efficacement les **consultations avec les professionnels de santé partenaires**,
+**Hébergement** : Union européenne, centres agréés HDS (hébergement données de santé)
 
-* De transmettre au praticien les informations nécessaires à la consultation.  
-* D'effectuer un suivi des consultations dans le dossier médical du patient.
+### 1.10. Envoi de lettres d'informations par e-mail
 
-##### **Les informations collectées**
+L'AEU peut transmettre des emails de promotion ou d'information sur ses Services dans deux cas :
+- Si vous êtes client de ses services (notamment si vous disposez d'un Compte Utilisateur Moneweb)
+- Si vous disposez d'un Compte Utilisateur
 
-Lors de l’utilisation de Maiia Agenda, les données suivantes peuvent être collectées dans le cadre de la gestion de votre compte et de vos rendez-vous :
+#### 1.10.1. Lettre d'information relative aux Services à destination des clients
 
-* **Identité** : nom, prénom, nom de naissance, sexe à l’état civil,
+**Informations collectées** : Adresse email
 
-* **Coordonnées** : numéro de téléphone mobile, adresse e-mail, adresse postale,
+**Finalité** : Information relative à l'utilisation des Services et actualités, invitation à créer Compte Utilisateur
 
-* **Données personnelles et administratives** : date, lieu et ville de naissance, numéro de sécurité sociale,
+**Prestataires** : Service communication AEU, JES Labs SA (hébergement), Mailjet (emailing), Infomaniak (hébergement base de données)
 
-* **Informations relatives au rendez-vous** : motif de consultation, date et heure du rendez-vous, lieu de consultation, praticien sélectionné.
+**Conservation** : Aussi longtemps que vous disposez d'un Compte Utilisateur Moneweb
 
-##### **Qui gère ce traitement ?**
+**Transfert hors UE** : Mailjet utilise serveurs États-Unis (décision d'adéquation)
 
-Le traitement est réalisé via **Maiia Agenda**, plateforme sécurisée éditée par **CEGEDIM SANTÉ**, prestataire de l’AEU.
+#### 1.10.2. Lettre d'information relative à l'utilisation du Site par les Utilisateurs
 
-##### **Combien de temps ces données sont-elles conservées ?**
+**Informations collectées** : Email, nom, prénom
 
-Les données relatives à la **prise de rendez-vous** sont conservées uniquement le temps nécessaire à l’exécution de celui-ci, et **ne peuvent être conservées au-delà de la durée d’existence de votre compte Maiia**.  
- Cependant, certaines informations, comme le **motif de consultation**, peuvent être intégrées au **dossier médical** du patient. Ces données sont conservées **pendant 20 ans à compter de la dernière consultation**, conformément à la réglementation applicable en matière de données de santé.
+**Finalité** : Envoi automatique emails pour confirmer ou informer sur demande/usage fonctionnalités
 
-##### **Où sont hébergées les données ?**
+**Prestataires** : AEU, Infomaniak (stockage), Mailjet (envoi)
 
-Les données traitées via Maiia Agenda sont **hébergées au sein de l’Union européenne**, dans des centres agréés pour l’hébergement de données de santé (HDS), garantissant un haut niveau de sécurité et de confidentialité.
+**Conservation** : En base active tant que Compte Utilisateur existe, puis suppression après 12 mois (sauf impératif légal de conservation notamment comptable)
 
-### 1.10. Envoi de lettres d’informations par e-mail
+**Transfert hors UE** : Mailjet utilise serveurs États-Unis (décision d'adéquation)
 
-L’AEU peut être amenée à vous transmettre des email de promotion de ses Services, ou d’informations vis-à-vis ceux-ci, dans deux cas différents:
-
-- si vous êtes clients de ses services, ce qui est notamment le cas si vous disposez d’un Compte Utilisateur Moneweb  
-- ou si vous disposez d’un Compte Utilisateur
-
-#### 1.10.1. La lettre d'information relatives aux Services à destinations des clients
-
-##### Pourquoi mettre en oeuvre ce traitement ?
-Nous mettons en oeuvre ce traitement pour vous avertir des informations relatives à l'utilisation des Services et aussi des actualités qui y sont relatives. Vous pouvez notamment recevoir un email afin de vous inviter à créer votre Compte Utilisateur.
-
-##### Quelles informations sont traitées dans ce cadre ?
-Dans ce cadre nous traitons votre adresse email.
-
-##### Qui gère ce traitement ?
-Ce traitement est mis en oeuvre par le service communnication de l'AEU.
-
-##### Combien de temps les informations sont elles conservées ?
-Ces informations sont conservées aussi longtemps que vos disposez d'un Compte Utilisateur Moneweb.
-
-##### Où sont hébergées ces données et à qui sont elles transmises ?
-Les données sont hébergées chez par JES, éditeurs de Moneweb, et par **Mailjet** (43 rue de Dunkerque, 75010 Paris, France), fournisseur d'une solution d'emailing mobilisée par le service communication pour vous envoyer ces informations. Infomaniak, à titre d'hébergeur de la base de données du Site, est également sujet à recueillir ces données en tant que sous-traitant de l'AEU, pour les besoins du fonctionnement des Services.
-
-#### 1.10.2. La lettre d'information relative à l'utilisation du Site par les Utilisteurs
-
-##### Pourquoi mettre en oeuvre ce traitement ?
-Lorsque vous utilisez les Site, certaines interactions peuvent déclencher l'envoi automatique d'emails afin de confirmer ou vous informer sur une demande ou un usage d'une de ses fonctionnalités.
-
-##### Quelles informations sont traitées dans ce cadre ?
-Dans ce cadre nous traitons votre adresse email, votre nom et votre prénom.
-
-##### Qui gère ce traitement ?
-Ce traitement est mis en oeuvre par l'AEU.
-
-##### Combien de temps les informations sont elles conservées ?
-Ces informations sont conservées en base active aussi longtemps que votre Compte Utilisateur existe. Elles sont alors supprimées après une période de 12 mois, sauf impératif légal de conservation (notamment si la tenue comptable l'exige).
-
-##### Où sont hébergées ces données et à qui sont elles transmises ?
-Les informations traitées dans ce cadre sont stockées chez Infomaniak, hébergeur des données du Site, et l'envoi s'effectue par l'AEU au moyen des services de **Mailjet** (43 rue de Dunkerque, 75010 Paris, France). Mailjet recourt à des serveurs situés aux États Unis d'Amérique, pays avec lequel il existe une décision d'adéquation concernant le niveau de protection des données personnelles.
 ---
 
-## Partie 2 \- Description des conditions de réalisation des traitements
+## Partie 2 - Description des conditions de réalisation des traitements
 
-### 2.1. Vos droits sur vos données personnelles et les traitements pratiqués dessus
+### 2.1. Vos droits sur vos données personnelles
 
-Conformément au Règlement Général sur la Protection des Données (RGPD) et à la loi Informatique et Libertés, vous disposez de plusieurs droits concernant vos données personnelles. Ces droits vous permettent de garder le contrôle sur les informations que nous traitons vous concernant.
+Conformément au RGPD et à la loi Informatique et Libertés, vous disposez des droits suivants concernant vos données personnelles :
 
 #### Vos droits
 
-Lorsque vous nous transmettez ou que nous collectons des données personnelles vous concernant, vous disposez des droits suivants :
+1. **Droit d'accès** : Connaître les données vous concernant traitées et obtenir une copie, ainsi que les informations sur finalités, catégories de données, destinataires, durée conservation, origine données, prise de décision automatisée
 
-##### 1. Droit d'accès
+2. **Droit de rectification** : Correction de données inexactes ou incomplètes (email, identité, contact, préférences)
 
-Vous avez le droit de savoir si nous traitons des données vous concernant et, le cas échéant, d'obtenir une copie de ces données ainsi que les informations suivantes :
+3. **Droit à l'effacement** ("droit à l'oubli") : Suppression dans les cas suivants :
+   - Données non plus nécessaires aux finalités
+   - Retrait consentement sans autre fondement juridique
+   - Opposition légitime sans motif légitime impérieux
+   - Traitement illicite
+   - Obligation légale d'effacement
+   
+   **Cas particuliers** : Conservation possible pour obligations légales/administratives (durées légales)
 
-* Les finalités du traitement,
-* Les catégories de données personnelles concernées,
-* Les destinataires ou catégories de destinataires auxquels vos données sont communiquées,
-* La durée de conservation des données ou, à défaut, les critères utilisés pour déterminer cette durée,
-* L'origine des données lorsqu'elles ne sont pas collectées directement auprès de vous,
-* L'existence d'une prise de décision automatisée, y compris le profilage, le cas échéant.
+4. **Droit à la limitation du traitement** : Limitation dans les cas suivants :
+   - Conteste exactitude (pendant vérification)
+   - Traitement illicite (préférence limitation vs effacement)
+   - Données non plus nécessaires mais vous en avez besoin pour exercice droits en justice
+   - Opposition (pendant vérification légitimité motifs)
+   
+   En cas de limitation, données utilisables uniquement avec consentement ou pour exercice droits en justice
 
-##### 2. Droit de rectification
+5. **Droit à la portabilité** : Réception données dans format structuré et lisible machine, transmission directe à autre responsable si techniquement possible. S'applique aux données fournies directement, traitées sur base consentement/contrat, traitées par moyens automatisés (ex. : historiques commandes, transactions Moneweb, export compte)
 
-Vous pouvez demander la correction de vos données personnelles lorsque celles-ci sont inexactes ou incomplètes. Vous pouvez notamment nous demander :
+6. **Droit d'opposition** : Opposition pour raisons tenant à situation particulière lorsque traitement fondé sur :
+   - Mission d'intérêt public ou exercice autorité publique
+   - Intérêt légitime
+   - Prospection (notamment publicitaire)
+   - Fins statistiques
+   
+   **Important** : Opposition non garantie si motifs légitimes et impérieux prévalent
 
-* De mettre à jour une adresse e-mail erronée,
-* De corriger des informations d'identité ou de contact incorrectes,
-* De compléter des données manquantes,
-* De modifier vos préférences de notification.
-
-##### 3. Droit à l'effacement ("droit à l'oubli")
-
-Vous pouvez demander la suppression de vos données personnelles dans les cas suivants :
-
-* Les données ne sont plus nécessaires au regard des finalités pour lesquelles elles ont été collectées,
-* Vous retirez votre consentement sur lequel le traitement est fondé et il n'existe pas d'autre fondement juridique,
-* Vous vous opposez légitimement au traitement et il n'existe pas de motif légitime impérieux,
-* Les données ont fait l'objet d'un traitement illicite,
-* Les données doivent être effacées pour respecter une obligation légale.
-
-**Cas particuliers** : Certaines données peuvent être conservées malgré votre demande pour respecter des obligations légales ou administratives (conservation comptable, fiscale, documentaire, etc.), pendant les durées légales en vigueur.
-
-##### 4. Droit à la limitation du traitement
-
-Vous pouvez demander que le traitement de vos données personnelles soit limité dans les situations suivantes :
-
-* Vous contestez l'exactitude des données, le temps que nous vérifions leur exactitude,
-* Le traitement est illicite et vous préférez la limitation à l'effacement,
-* Nous n'avons plus besoin de vos données mais vous en avez besoin pour la constatation, l'exercice ou la défense de droits en justice,
-* Vous vous êtes opposé au traitement, pendant la vérification de la légitimité des motifs du responsable.
-
-En cas d'application de la limitation, vos données ne peuvent être utilisées qu'avec votre consentement ou pour la constatation, l'exercice ou la défense de droits en justice.
-
-##### 5. Droit à la portabilité des données
-
-Vous avez le droit de recevoir les données personnelles vous concernant que vous nous avez fournies, dans un format structuré, couramment utilisé et lisible par machine. Vous pouvez également demander que nous transmettions ces données directement à un autre responsable de traitement, lorsque cela est techniquement possible.
-
-Ce droit s'applique aux données que :
-
-* Vous avez fournies directement (prénom, nom, e-mail, etc.),
-* Qui sont traitées sur la base de votre consentement ou d'un contrat,
-* Et qui sont traitées par des moyens automatisés.
-
-**Exemple** : Vous pouvez récupérer vos historiques de commandes, vos transactions Moneweb, ou exporter les informations de votre compte utilisateur.
-
-##### 6. Droit d'opposition
-
-Vous pouvez vous opposer à tout moment, pour des raisons tenant à votre situation particulière, au traitement de vos données personnelles :
-
-* Lorsque le traitement est fondé sur l'exécution d'une mission d'intérêt public ou l'exercice de l'autorité publique,
-* Lorsque le traitement est fondé sur notre intérêt légitime,
-* Pour les opérations de prospection, notamment publicitaire,
-* Pour les traitements à des fins statistiques.
-
-**Important** : Nous ne pouvons pas garantir que votre opposition sera suivie d'effets si nous démontrons des motifs légitimes et impérieux pour traiter vos données qui prévalent sur vos intérêts, droits et libertés, ou pour la constatation, l'exercice ou la défense de droits en justice.
-
-##### 7. Droit au retrait du consentement
-
-Lorsque le traitement est fondé sur votre consentement, vous pouvez le retirer à tout moment, sans que cela ne remette en cause la licéité du traitement effectué avant le retrait.
-
-Vous pouvez notamment retirer votre consentement pour :
-
-* La réception de lettres d'information par e-mail,
-* L'acceptation de cookies non strictement nécessaires,
-* L'utilisation de certaines données pour des finalités spécifiques nécessitant votre consentement.
+7. **Droit au retrait du consentement** : Retrait à tout moment si traitement fondé sur consentement, sans remettre en cause licéité traitement effectué avant. Applicable notamment pour : lettres d'information, cookies non strictement nécessaires, données pour finalités spécifiques nécessitant consentement
 
 #### Comment exercer vos droits
 
-Pour exercer vos droits, vous pouvez nous adresser votre demande par l'un des moyens suivants :
+**Contact** :
+- **Email** : dpo@all-lacatho.fr
+- **Courrier** : Association d'Entraide Universitaire, 47 boulevard Vauban, 59000 Lille, France. À l'attention du DPO
 
-**Par e-mail** : dpo@all-lacatho.fr
+**Informations à fournir** : Coordonnées (nom, prénom, email), objet demande, éléments d'identification sur Services, traitements concernés (optionnel)
 
-**Par courrier postal** :
-Association d'Entraide Universitaire
-47 boulevard Vauban
-59000 Lille, France
+**Délais** : Réponse dans un délai d'un mois (prolongation de 2 mois possible si demande complexe/nombreuse, avec information dans le mois)
 
-À l'attention du Délégué à la Protection des Données (DPO)
+**Justification identité** : Vérification identité requise (copie pièce d'identité peut être demandée)
 
-**Informations à fournir dans votre demande**
-
-Afin de traiter votre demande dans les meilleurs délais, merci de nous communiquer :
-
-* Vos coordonnées (nom, prénom, adresse e-mail),
-* L'objet de votre demande (droit que vous souhaitez exercer),
-* Les éléments nécessaires pour vous identifier sur nos Services (ex. : numéro de compte, identifiant),
-* Si vous le souhaitez, les traitements concernés par votre demande.
-
-**Délais de réponse**
-
-Conformément au RGPD, nous nous engageons à répondre à votre demande dans un délai d'un mois à compter de sa réception. Ce délai peut être prolongé de deux mois supplémentaires en cas de demandes complexes ou nombreuses. Dans ce cas, nous vous en informons dans le mois suivant la réception de votre demande.
-
-**Justification d'identité**
-
-Nous sommes tenus de vérifier votre identité avant d'accéder à votre demande. Une copie d'une pièce d'identité peut vous être demandée pour des raisons de sécurité.
-
-**Recours possibles en cas de refus**
-
-Si votre demande est refusée ou partiellement refusée, nous vous en indiquerons les raisons. Vous pouvez introduire une réclamation auprès de la CNIL ou contester cette décision devant l'autorité judiciaire compétente.
+**Recours en cas de refus** : Indication des raisons du refus, possibilité réclamation CNIL ou contestation devant autorité judiciaire compétente
 
 #### Droit de réclamation auprès de la CNIL
 
-Si vous estimez que le traitement de vos données personnelles constitue une violation du RGPD ou de la loi Informatique et Libertés, vous avez le droit d'introduire une réclamation auprès de la Commission Nationale de l'Informatique et des Libertés (CNIL).
+Si vous estimez que le traitement constitue une violation du RGPD ou de la loi Informatique et Libertés, vous pouvez introduire une réclamation auprès de la CNIL.
 
-**Coordonnées de la CNIL** :
-3 Place de Fontenoy - TSA 80715
-75334 Paris Cedex 07
-Téléphone : 01 53 73 22 22
-Site web : https://www.cnil.fr
+**Coordonnées CNIL** :
+- 3 Place de Fontenoy - TSA 80715, 75334 Paris Cedex 07
+- Téléphone : 01 53 73 22 22
+- Site web : https://www.cnil.fr
+- Formulaire en ligne : https://www.cnil.fr/fr/plaintes
 
-Vous pouvez également introduire une réclamation en ligne via le formulaire disponible sur le site internet de la CNIL : https://www.cnil.fr/fr/plaintes
-
-Avant de saisir la CNIL, nous vous encourageons vivement à nous contacter en premier lieu afin que nous puissions résoudre votre difficulté ensemble. Nous vous rappelons notre adresse de contact : dpo@all-lacatho.fr.
+**Recommandation** : Nous vous encourageons à nous contacter en premier lieu (dpo@all-lacatho.fr) pour résoudre la difficulté ensemble.
 
 ### 2.2. Politique relative aux cookies
 
-Le site **all-lacatho.fr** utilise des cookies pour vous aider à naviguer efficacement, à exécuter certaines fonctionnalités, à assurer la sécurité des sessions, et à améliorer votre expérience utilisateur. Ces cookies sont classés par catégories selon leur finalité. Seuls les cookies strictement nécessaires au fonctionnement du site sont activés par défaut, conformément à la réglementation en vigueur (RGPD et directive ePrivacy).
+Le site **all-lacatho.fr** utilise des cookies classés par catégories selon leur finalité. Seuls les cookies strictement nécessaires sont activés par défaut (conformité RGPD et directive ePrivacy).
 
-#### **🔒 Cookies nécessaires (toujours actifs)**
+#### 🔒 Cookies nécessaires (toujours actifs)
 
-Ces cookies sont essentiels pour garantir le bon fonctionnement du site et la sécurité des connexions. Ils sont déposés par notre site et ne stockent pas de données directement identifiables.
+| Cookie | Durée | Finalité |
+|--------|-------|----------|
+| `__Host-next-auth.csrf-token` | Session (<1 jour) | Sécurise requêtes authentification, protection CSRF |
+| `__Secure-next-auth.callback-url` | Session (<1 jour) | Mémorise URL redirection après authentification |
+| `route` | Session (<1 jour) | Gère répartition charge entre serveurs |
+| `SRVGROUP` | Session (<1 jour) | Assure répartition trafic (load balancing) |
 
-| Cookie | Durée de vie | Finalité |
-| ----- | ----- | ----- |
-| `__Host-next-auth.csrf-token` | Session (<1 jour) | Sécurise les requêtes d'authentification et protège contre les attaques CSRF. |
-| `__Secure-next-auth.callback-url` | Session (<1 jour) | Mémorise l'URL de redirection après authentification. |
-| `route` | Session (<1 jour) | Gère la répartition de charge entre les serveurs. |
-| `SRVGROUP` | Session (<1 jour) | Assure la répartition du trafic entre les serveurs (load balancing). |
+#### 💳 Cookies liés au paiement (déposés par Stripe)
 
-#### **💳 Cookies liés au paiement (déposés par Stripe)**
+| Cookie | Domaine | Durée | Finalité |
+|--------|---------|-------|----------|
+| `_stripe_mid` | .all-lacatho.fr | 365 jours | Gestion paiements, identification prévention fraude |
+| `_stripe_sid` | .all-lacatho.fr | Session (<1 jour) | Gestion paiements transactions en cours |
+| `m` | .stripe.com | 730 jours | Gestion paiements |
 
-Ces cookies sont déposés par le service de paiement Stripe pour la gestion des transactions et la prévention de la fraude.
+#### 📊 Cookies analytiques (soumis à consentement)
 
-| Cookie | Domaine | Durée de vie | Finalité |
-| ----- | ----- | ----- | ----- |
-| `_stripe_mid` | .all-lacatho.fr | 365 jours | Gestion des paiements et identification pour la prévention de fraude. |
-| `_stripe_sid` | .all-lacatho.fr | Session (<1 jour) | Gestion des paiements lors des transactions en cours. |
-| `m` | .stripe.com | 730 jours | Gestion des paiements (objectif indéterminé). |
+| Cookie | Durée | Finalité |
+|--------|-------|----------|
+| `_ga` | 400 jours | Analyse statistique visites, mesure d'audience |
+| `_ga_6YGKT00P58` | 400 jours | Analyse statistique (Google Analytics) |
 
-#### **📊 Cookies analytiques (soumis à consentement)**
+#### ⚙️ Cookies de préférences utilisateur
 
-Ces cookies sont utilisés pour mesurer l'audience et comprendre l'utilisation du site.
+| Cookie | Durée | Finalité |
+|--------|-------|----------|
+| `cookieyes-consent` | 365 jours | Gestion consentements cookies, conservation préférences |
 
-| Cookie | Durée de vie | Finalité |
-| ----- | ----- | ----- |
-| `_ga` | 400 jours | Analyse statistique des visites et mesure d'audience. |
-| `_ga_6YGKT00P58` | 400 jours | Analyse statistique des visites (Google Analytics). |
+#### Gestion des préférences
 
-#### **⚙️ Cookies de préférences utilisateur**
-
-Ces cookies permettent de mémoriser vos choix et préférences.
-
-| Cookie | Durée de vie | Finalité |
-| ----- | ----- | ----- |
-| `cookieyes-consent` | 365 jours | Gestion des consentements aux cookies et conservation de vos préférences. |
+Un bandeau de consentement permet de gérer vos préférences lors de la première visite et à tout moment. La désactivation de certains cookies peut limiter le bon fonctionnement du site. Consultez les détails dans le gestionnaire de préférences en bas de page.
 
 ---
 
-### **Gestion des préférences**
-
-Lors de votre première visite, un bandeau de consentement vous permet de gérer vos préférences en matière de cookies. Vous pouvez également les modifier à tout moment. La désactivation de certains cookies peut limiter le bon fonctionnement du site.
-
-Pour plus d'informations sur l'utilisation des cookies, vous pouvez consulter les détails sous chaque catégorie dans le gestionnaire de préférences disponible en bas de page.
-
 # Modalités
+
 La présente version de la politique de confidentialité des Services entre en vigueur le X novembre 2025.
 
-Elles peuvent faire l'objet d'une modification à tout moment, moyennant un délai d'information préalable de 30 jours avant l'entrée en vigueur d'une version ultérieure.
+Elle peut faire l'objet d'une modification à tout moment, moyennant un délai d'information préalable de 30 jours avant l'entrée en vigueur d'une version ultérieure.
